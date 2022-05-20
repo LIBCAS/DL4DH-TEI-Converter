@@ -1,0 +1,532 @@
+<?xml version="1.0" ?>
+<div>
+  <pb xml:id="uuid-189d4d39-8862-4bb8-9e51-b7d914a4087a" n="[3]" corresp="https://dnnt.mzk.cz/view/uuid:319546a0-5a42-11eb-b4d1-005056827e51?page=uuid:189d4d39-8862-4bb8-9e51-b7d914a4087a https://dnnt.mzk.cz/search/api/v5.0/item/uuid:189d4d39-8862-4bb8-9e51-b7d914a4087a/"/>
+  <p>
+    <s>
+      <w n="1" pos="ADJ" msd="Case=Nom|Gender=Fem|Number=Sing|NumType=Ord" lemma="osmnáctý" alto-height="45.0" alto-width="236.0" alto-vpos="954.0" alto-hpos="305.0">Osmnáctá</w>
+      <w n="2" pos="ADJ" msd="Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="valný" alto-height="44.0" alto-width="127.0" alto-vpos="955.0" alto-hpos="587.0">valná</w>
+      <w n="3" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="hromada" alto-height="43.0" alto-width="209.0" alto-vpos="956.0" alto-hpos="759.0">hromada</w>
+      <w n="4" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="bratrstvo" alto-height="43.0" alto-width="227.0" alto-vpos="957.0" alto-hpos="1010.0">bratrstva</w>
+      <persName ana="#nametag-pp">
+        <w n="5" pos="ADJ" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="svatý" alto-height="31.0" alto-width="65.0" alto-vpos="968.0" alto-hpos="1270.0">sv</w>
+        <pc n="6" pos="PUNCT" join="left" msd="" lemma="." alto-height="31.0" alto-width="65.0" alto-vpos="968.0" alto-hpos="1270.0">.</pc>
+        <forename ana="#nametag-pf">
+          <w n="7" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Michael" alto-height="44.0" alto-width="218.0" alto-vpos="955.0" alto-hpos="1369.0">Michaela</w>
+        </forename>
+      </persName>
+      <w n="8" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="pro" alto-height="43.0" alto-width="79.0" alto-vpos="968.0" alto-hpos="1622.0">pro</w>
+      <w n="9" pos="NOUN" msd="Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos" lemma="království" alto-height="44.0" alto-width="82.0" alto-vpos="955.0" alto-hpos="1734.0">království</w>
+      <placeName ana="#nametag-gr">
+        <region ana="#nametag-gr">
+          <w n="10" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="český" alto-height="61.0" alto-width="158.0" alto-vpos="1005.0" alto-hpos="361.0">České</w>
+        </region>
+      </placeName>
+      <pc n="11" pos="PUNCT" join="left" msd="" lemma="," alto-height="61.0" alto-width="158.0" alto-vpos="1005.0" alto-hpos="361.0">,</pc>
+      <w n="12" pos="ADJ" msd="Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="konaný" alto-height="42.0" alto-width="172.0" alto-vpos="1015.0" alto-hpos="553.0">konána</w>
+      <w n="13" pos="AUX" msd="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" alto-height="53.0" alto-width="100.0" alto-vpos="1016.0" alto-hpos="757.0">byla</w>
+      <w n="14" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="den" alto-height="42.0" alto-width="84.0" alto-vpos="1015.0" alto-hpos="890.0">dne</w>
+      <date ana="#nametag-T" when="1898-04-16">
+        <w n="15" pos="NUM" msd="NumForm=Digit|NumType=Card" lemma="16" alto-height="41.0" alto-width="67.0" alto-vpos="1016.0" alto-hpos="1009.0" ana="#nametag-td">16</w>
+        <pc n="16" pos="PUNCT" join="left" msd="" lemma="." alto-height="41.0" alto-width="67.0" alto-vpos="1016.0" alto-hpos="1009.0" ana="#nametag-td">.</pc>
+        <w n="17" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="duben" alto-height="43.0" alto-width="147.0" alto-vpos="1014.0" alto-hpos="1120.0" ana="#nametag-tm">dubna</w>
+        <w n="18" pos="NUM" msd="NumForm=Digit|NumType=Card" lemma="1898" alto-height="43.0" alto-width="110.0" alto-vpos="1014.0" alto-hpos="1314.0" ana="#nametag-ty">1898</w>
+      </date>
+      <w n="19" pos="ADP" msd="AdpType=Voc|Case=Loc" lemma="v" alto-height="30.0" alto-width="52.0" alto-vpos="1026.0" alto-hpos="1458.0">ve</w>
+      <w n="20" pos="ADJ" msd="Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="velký" alto-height="43.0" alto-width="168.0" alto-vpos="1015.0" alto-hpos="1542.0">velkém</w>
+      <w n="21" pos="NOUN" msd="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="sál" alto-height="42.0" alto-width="93.0" alto-vpos="1015.0" alto-hpos="1744.0">sále</w>
+      <orgName ana="#nametag-ic">
+        <w n="22" pos="PROPN" msd="Case=Gen|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Rudolfinum" alto-height="44.0" alto-width="235.0" alto-vpos="1072.0" alto-hpos="165.0">Rudolfina</w>
+      </orgName>
+      <w n="23" pos="CCONJ" msd="" lemma="a" alto-height="28.0" alto-width="25.0" alto-vpos="1087.0" alto-hpos="431.0">a</w>
+      <w n="24" pos="ADV" msd="" lemma="sice" alto-height="44.0" alto-width="90.0" alto-vpos="1073.0" alto-hpos="479.0">sice</w>
+      <w n="25" pos="ADP" msd="AdpType=Comprep" lemma="vzhledem" alto-height="43.0" alto-width="227.0" alto-vpos="1073.0" alto-hpos="592.0">vzhledem</w>
+      <w n="26" pos="ADP" msd="AdpType=Prep|Case=Dat" lemma="к" alto-height="40.0" alto-width="25.0" alto-vpos="1074.0" alto-hpos="844.0">к</w>
+      <w n="27" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="šedesátiletý" alto-height="43.0" alto-width="359.0" alto-vpos="1073.0" alto-hpos="894.0">šedesátiletému</w>
+      <w n="28" pos="NOUN" msd="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos" lemma="jubileum" alto-height="53.0" alto-width="172.0" alto-vpos="1073.0" alto-hpos="1283.0">jubileu</w>
+      <w n="29" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="diamantový" alto-height="43.0" alto-width="356.0" alto-vpos="1073.0" alto-hpos="1480.0">diamantovému</w>
+      <objectName type="artefact" ana="#nametag-oa">
+        <w n="30" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="43.0" alto-width="112.0" alto-vpos="1131.0" alto-hpos="165.0">Jeho</w>
+        <w n="31" pos="NOUN" msd="Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos" lemma="svatost" alto-height="43.0" alto-width="194.0" alto-vpos="1131.0" alto-hpos="311.0">Svatosti</w>
+        <w n="32" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="papež" alto-height="52.0" alto-width="163.0" alto-vpos="1133.0" alto-hpos="529.0">papeže</w>
+        <persName ana="#nametag-pp">
+          <w n="33" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="lev" alto-height="43.0" alto-width="89.0" alto-vpos="1131.0" alto-hpos="725.0">Lva</w>
+          <w n="34" pos="PROPN" msd="NumForm=Roman|NumType=Card" lemma="XIIL" alto-height="55.0" alto-width="134.0" alto-vpos="1131.0" alto-hpos="844.0">XIIL</w>
+        </persName>
+      </objectName>
+      <pc n="35" pos="PUNCT" join="left" msd="" lemma="," alto-height="55.0" alto-width="134.0" alto-vpos="1131.0" alto-hpos="844.0">,</pc>
+      <w n="36" pos="SCONJ" msd="" lemma="jakož" alto-height="53.0" alto-width="132.0" alto-vpos="1132.0" alto-hpos="1007.0">jakož</w>
+      <w n="37" pos="CCONJ" msd="" lemma="i" alto-height="43.0" alto-width="15.0" alto-vpos="1131.0" alto-hpos="1173.0">i</w>
+      <w n="38" pos="ADP" msd="AdpType=Prep|Case=Dat" lemma="к" alto-height="43.0" alto-width="29.0" alto-vpos="1130.0" alto-hpos="1219.0">к</w>
+      <w n="39" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="padesátiletý" alto-height="54.0" alto-width="369.0" alto-vpos="1131.0" alto-hpos="1271.0">padesátiletému</w>
+      <w n="40" pos="NOUN" msd="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos" lemma="jubileum" alto-height="53.0" alto-width="175.0" alto-vpos="1132.0" alto-hpos="1660.0">jubileu</w>
+      <w n="41" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="panovnický" alto-height="55.0" alto-width="347.0" alto-vpos="1189.0" alto-hpos="166.0">panovnickému</w>
+      <w n="42" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="43.0" alto-width="113.0" alto-vpos="1189.0" alto-hpos="536.0">Jeho</w>
+      <w n="43" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="veličenstvo" alto-height="44.0" alto-width="281.0" alto-vpos="1189.0" alto-hpos="683.0">Veličenstva</w>
+      <w n="44" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="císař" alto-height="44.0" alto-width="142.0" alto-vpos="1190.0" alto-hpos="987.0">císaře</w>
+      <w n="45" pos="CCONJ" msd="" lemma="a" alto-height="29.0" alto-width="25.0" alto-vpos="1203.0" alto-hpos="1162.0">a</w>
+      <w n="46" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="král" alto-height="42.0" alto-width="122.0" alto-vpos="1190.0" alto-hpos="1210.0">krále</w>
+      <persName ana="#nametag-P">
+        <forename ana="#nametag-pf">
+          <w n="47" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="František" alto-height="44.0" alto-width="235.0" alto-vpos="1189.0" alto-hpos="1356.0">Františka</w>
+        </forename>
+        <forename type="middle" ana="#nametag-pm">
+          <w n="48" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Josef" alto-height="45.0" alto-width="152.0" alto-vpos="1188.0" alto-hpos="1622.0">Josefa</w>
+        </forename>
+        <num type="ordinal" ana="#nametag-no">
+          <w n="49" pos="NUM" msd="NumForm=Roman|NumType=Card" lemma="I" alto-height="43.0" alto-width="33.0" alto-vpos="1189.0" alto-hpos="1799.0">I</w>
+          <pc n="50" pos="PUNCT" join="left" msd="" lemma="." alto-height="43.0" alto-width="33.0" alto-vpos="1189.0" alto-hpos="1799.0">.</pc>
+        </num>
+      </persName>
+      <w n="51" pos="NOUN" msd="Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos" lemma="způsob" alto-height="54.0" alto-width="239.0" alto-vpos="1248.0" alto-hpos="166.0">způsobem</w>
+      <w n="52" pos="ADV" msd="" lemma="zvlášt" alto-height="43.0" alto-width="138.0" alto-vpos="1248.0" alto-hpos="438.0">zvlášt</w>
+      <w n="53" pos="ADJ" msd="Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="slavnostní" alto-height="42.0" alto-width="289.0" alto-vpos="1249.0" alto-hpos="607.0">slavnostním</w>
+      <w n="54" pos="CCONJ" msd="" lemma="a" alto-height="28.0" alto-width="25.0" alto-vpos="1262.0" alto-hpos="930.0">a</w>
+      <w n="55" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="manifestačnír" alto-height="44.0" alto-width="365.0" alto-vpos="1247.0" alto-hpos="986.0">manifestačníra</w>
+      <pc n="56" pos="PUNCT" join="left" msd="" lemma="." alto-height="44.0" alto-width="365.0" alto-vpos="1247.0" alto-hpos="986.0">.</pc>
+    </s>
+    <s>
+      <pc n="1" pos="PUNCT" join="left" msd="" lemma="—" alto-height="6.0" alto-width="57.0" alto-vpos="1273.0" alto-hpos="1384.0">—</pc>
+      <w n="2" pos="NOUN" msd="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="průběh" alto-height="43.0" alto-width="176.0" alto-vpos="1306.0" alto-hpos="306.0">Průběh</w>
+      <w n="3" pos="ADJ" msd="Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="slavnostní" alto-height="43.0" alto-width="305.0" alto-vpos="1307.0" alto-hpos="515.0">slavnostního</w>
+      <w n="4" pos="DET" msd="Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem" lemma="tento" alto-height="42.0" alto-width="156.0" alto-vpos="1307.0" alto-hpos="853.0">tohoto</w>
+      <w n="5" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="shromáždění" alto-height="51.0" alto-width="324.0" alto-vpos="1305.0" alto-hpos="1044.0">shromáždění</w>
+      <pc n="6" pos="PUNCT" join="left" msd="" lemma="," alto-height="51.0" alto-width="324.0" alto-vpos="1305.0" alto-hpos="1044.0">,</pc>
+      <w n="7" pos="PRON" msd="Case=Dat|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel" lemma="jenž" alto-height="55.0" alto-width="146.0" alto-vpos="1306.0" alto-hpos="1409.0">jemuž</w>
+      <w n="8" pos="ADJ" msd="Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="zvláštní" alto-height="44.0" alto-width="246.0" alto-vpos="1305.0" alto-hpos="1590.0">zvláštního</w>
+      <w n="9" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="lesk" alto-height="43.0" alto-width="125.0" alto-vpos="1365.0" alto-hpos="168.0">lesku</w>
+      <w n="10" pos="VERB" msd="Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="dodat" alto-height="42.0" alto-width="160.0" alto-vpos="1365.0" alto-hpos="329.0">dodala</w>
+      <w n="11" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="přítomnost" alto-height="51.0" alto-width="265.0" alto-vpos="1367.0" alto-hpos="521.0">přítomnost</w>
+      <w n="12" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="43.0" alto-width="112.0" alto-vpos="1365.0" alto-hpos="815.0">Jeho</w>
+      <objectName ana="#nametag-p_">
+        <w n="13" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="eminence" alto-height="43.0" alto-width="230.0" alto-vpos="1365.0" alto-hpos="960.0">Eminencí</w>
+        <w n="14" pos="ADV" msd="Degree=Sup|Polarity=Pos" lemma="jdùst" alto-height="53.0" alto-width="189.0" alto-vpos="1365.0" alto-hpos="1225.0">nejdùst</w>
+        <pc n="15" pos="PUNCT" join="left" msd="" lemma="." alto-height="53.0" alto-width="189.0" alto-vpos="1365.0" alto-hpos="1225.0">.</pc>
+      </objectName>
+    </s>
+    <s>
+      <w n="1" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="pan" alto-height="40.0" alto-width="113.0" alto-vpos="1378.0" alto-hpos="1454.0">pana</w>
+      <w n="2" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="kardinál" alto-height="43.0" alto-width="229.0" alto-vpos="1365.0" alto-hpos="1610.0">kardinála</w>
+      <w n="3" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="kníže" alto-height="54.0" alto-width="480.0" alto-vpos="1423.0" alto-hpos="168.0">knížete</w>
+      <pc n="4" pos="PUNCT" join="both" msd="" lemma="-" alto-height="54.0" alto-width="480.0" alto-vpos="1423.0" alto-hpos="168.0">-</pc>
+      <w n="5" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="arcibiskup" alto-height="54.0" alto-width="480.0" alto-vpos="1423.0" alto-hpos="168.0">arcibiskupa</w>
+      <persName ana="#nametag-P">
+        <forename ana="#nametag-pf">
+          <w n="6" pos="PROPN" msd="Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="František" alto-height="43.0" alto-width="236.0" alto-vpos="1423.0" alto-hpos="695.0">Františka</w>
+        </forename>
+        <surname ana="#nametag-ps">
+          <w n="7" pos="ADP" msd="AdpType=Prep|Case=Nom|Foreign=Yes" lemma="de" alto-height="42.0" alto-width="54.0" alto-vpos="1424.0" alto-hpos="970.0">de</w>
+        </surname>
+        <forename type="middle" ana="#nametag-pm">
+          <w n="8" pos="PROPN" msd="Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Paul" alto-height="43.0" alto-width="136.0" alto-vpos="1423.0" alto-hpos="1058.0">Paula</w>
+        </forename>
+        <surname ana="#nametag-ps">
+          <w n="9" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="hrabě" alto-height="44.0" alto-width="182.0" alto-vpos="1423.0" alto-hpos="1236.0">hraběte</w>
+        </surname>
+        <w n="10" pos="ADP" msd="AdpType=Voc|Case=Gen" lemma="z" alto-height="30.0" alto-width="47.0" alto-vpos="1436.0" alto-hpos="1453.0">ze</w>
+        <placeName ana="#nametag-gu">
+          <settlement ana="#nametag-gu">
+            <w n="11" pos="PROPN" msd="Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Plur|Polarity=Pos" lemma="Schonborn" alto-height="51.0" alto-width="303.0" alto-vpos="1423.0" alto-hpos="1534.0">Schonbornů</w>
+          </settlement>
+        </placeName>
+      </persName>
+      <pc n="12" pos="PUNCT" join="left" msd="" lemma="," alto-height="51.0" alto-width="303.0" alto-vpos="1423.0" alto-hpos="1534.0">,</pc>
+      <w n="13" pos="CCONJ" msd="" lemma="a" alto-height="28.0" alto-width="24.0" alto-vpos="1496.0" alto-hpos="167.0">a</w>
+      <w n="14" pos="ADV" msd="Degree=Pos|Polarity=Pos" lemma="okázale" alto-height="42.0" alto-width="179.0" alto-vpos="1482.0" alto-hpos="233.0">okázale</w>
+      <w n="15" pos="ADJ" msd="Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="zastoupený" alto-height="50.0" alto-width="270.0" alto-vpos="1485.0" alto-hpos="444.0">zastoupená</w>
+      <w n="16" pos="ADJ" msd="Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="vysoký" alto-height="54.0" alto-width="167.0" alto-vpos="1482.0" alto-hpos="747.0">vysoká</w>
+      <w n="17" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="šlechta" alto-height="51.0" alto-width="183.0" alto-vpos="1482.0" alto-hpos="951.0">šlechta</w>
+      <pc n="18" pos="PUNCT" join="left" msd="" lemma="," alto-height="51.0" alto-width="183.0" alto-vpos="1482.0" alto-hpos="951.0">,</pc>
+      <w n="19" pos="AUX" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" alto-height="51.0" alto-width="68.0" alto-vpos="1482.0" alto-hpos="1181.0">byl</w>
+      <w n="20" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="v" alto-height="29.0" alto-width="23.0" alto-vpos="1494.0" alto-hpos="1285.0">v</w>
+      <w n="21" pos="DET" msd="Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot" lemma="každý" alto-height="42.0" alto-width="181.0" alto-vpos="1482.0" alto-hpos="1341.0">každém</w>
+      <w n="22" pos="NOUN" msd="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="ohled" alto-height="43.0" alto-width="164.0" alto-vpos="1482.0" alto-hpos="1568.0">ohledu</w>
+      <w n="23" pos="ADJ" msd="Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="důstojný" alto-height="43.0" alto-width="57.0" alto-vpos="1482.0" alto-hpos="1766.0">důstojný</w>
+      <pc n="24" pos="PUNCT" join="left" msd="" lemma=";" alto-height="43.0" alto-width="57.0" alto-vpos="1482.0" alto-hpos="1766.0">;</pc>
+    </s>
+    <s>
+      <w n="1" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="schůze" alto-height="43.0" alto-width="159.0" alto-vpos="1540.0" alto-hpos="372.0">schůze</w>
+      <w n="2" pos="AUX" msd="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" alto-height="54.0" alto-width="101.0" alto-vpos="1540.0" alto-hpos="563.0">byla</w>
+      <w n="3" pos="ADV" msd="Degree=Pos|Polarity=Pos" lemma="četně" alto-height="43.0" alto-width="124.0" alto-vpos="1540.0" alto-hpos="696.0">četně</w>
+      <w n="4" pos="ADJ" msd="Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="navštivený" alto-height="42.0" alto-width="262.0" alto-vpos="1541.0" alto-hpos="852.0">navštivena</w>
+      <w n="5" pos="CCONJ" msd="" lemma="a" alto-height="28.0" alto-width="24.0" alto-vpos="1553.0" alto-hpos="1149.0">a</w>
+      <w n="6" pos="ADJ" msd="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="obeslaný" alto-height="43.0" alto-width="206.0" alto-vpos="1539.0" alto-hpos="1207.0">obeslána</w>
+      <w n="7" pos="NOUN" msd="Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos" lemma="zástupce" alto-height="54.0" alto-width="197.0" alto-vpos="1540.0" alto-hpos="1449.0">zástupci</w>
+      <w n="8" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="duchovenstvo" alto-height="43.0" alto-width="143.0" alto-vpos="1539.0" alto-hpos="1679.0">duchovenstva</w>
+      <w n="9" pos="DET" msd="Case=Gen|Number=Plur|PronType=Tot" lemma="všechen" alto-height="42.0" alto-width="134.0" alto-vpos="1599.0" alto-hpos="397.0">všech</w>
+      <w n="10" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="vrstva" alto-height="47.0" alto-width="160.0" alto-vpos="1602.0" alto-hpos="578.0">vrstev</w>
+      <pc n="11" pos="PUNCT" join="left" msd="" lemma="," alto-height="47.0" alto-width="160.0" alto-vpos="1602.0" alto-hpos="578.0">,</pc>
+      <w n="12" pos="ADJ" msd="Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="světský" alto-height="56.0" alto-width="223.0" alto-vpos="1598.0" alto-hpos="773.0">světským</w>
+      <w n="13" pos="CCONJ" msd="" lemma="i" alto-height="42.0" alto-width="15.0" alto-vpos="1599.0" alto-hpos="1031.0">i</w>
+      <w n="14" pos="ADJ" msd="Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="řeholní" alto-height="51.0" alto-width="230.0" alto-vpos="1598.0" alto-hpos="1079.0">řeholním</w>
+      <pc n="15" pos="PUNCT" join="left" msd="" lemma="," alto-height="51.0" alto-width="230.0" alto-vpos="1598.0" alto-hpos="1079.0">,</pc>
+      <w n="16" pos="SCONJ" msd="" lemma="jakož" alto-height="55.0" alto-width="130.0" alto-vpos="1598.0" alto-hpos="1348.0">jakož</w>
+      <w n="17" pos="CCONJ" msd="" lemma="i" alto-height="41.0" alto-width="13.0" alto-vpos="1600.0" alto-hpos="1511.0">i</w>
+      <w n="18" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos" lemma="deputace" alto-height="54.0" alto-width="281.0" alto-vpos="1599.0" alto-hpos="1558.0">deputacemi</w>
+      <w n="19" pos="DET" msd="Case=Gen|Number=Plur|PronType=Tot" lemma="všechen" alto-height="44.0" alto-width="132.0" alto-vpos="1657.0" alto-hpos="168.0">všech</w>
+      <w n="20" pos="ADJ" msd="Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos" lemma="katolický" alto-height="55.0" alto-width="278.0" alto-vpos="1657.0" alto-hpos="334.0">katolických</w>
+      <w n="21" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos" lemma="spolek" alto-height="54.0" alto-width="159.0" alto-vpos="1657.0" alto-hpos="647.0">spolků</w>
+      <w n="22" pos="ADJ" msd="Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos" lemma="pražský" alto-height="55.0" alto-width="258.0" alto-vpos="1657.0" alto-hpos="840.0">pražských</w>
+      <pc n="23" pos="PUNCT" join="left" msd="" lemma="." alto-height="55.0" alto-width="258.0" alto-vpos="1657.0" alto-hpos="840.0">.</pc>
+    </s>
+    <s>
+      <w n="1" pos="ADJ" msd="Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="prostorný" alto-height="54.0" alto-width="240.0" alto-vpos="1716.0" alto-hpos="308.0">Prostorný</w>
+      <w n="2" pos="NOUN" msd="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="sál" alto-height="43.0" alto-width="63.0" alto-vpos="1715.0" alto-hpos="594.0">sál</w>
+      <orgName ana="#nametag-if">
+        <w n="3" pos="PROPN" msd="Case=Gen|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Rudolfinum" alto-height="45.0" alto-width="233.0" alto-vpos="1714.0" alto-hpos="707.0">Rudolfina</w>
+      </orgName>
+      <w n="4" pos="ADJ" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="vyzdobený" alto-height="55.0" alto-width="226.0" alto-vpos="1716.0" alto-hpos="986.0">vyzdoben</w>
+      <w n="5" pos="AUX" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" alto-height="54.0" alto-width="72.0" alto-vpos="1714.0" alto-hpos="1260.0">byl</w>
+      <w n="6" pos="ADV" msd="Degree=Pos|Polarity=Pos" lemma="vkusně" alto-height="41.0" alto-width="168.0" alto-vpos="1716.0" alto-hpos="1382.0">vkusně</w>
+      <w n="7" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos" lemma="květina" alto-height="43.0" alto-width="243.0" alto-vpos="1715.0" alto-hpos="1599.0">květinami</w>
+      <w n="8" pos="CCONJ" msd="" lemma="a" alto-height="30.0" alto-width="25.0" alto-vpos="1788.0" alto-hpos="168.0">a</w>
+      <w n="9" pos="NOUN" msd="Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos" lemma="koberec" alto-height="44.0" alto-width="183.0" alto-vpos="1774.0" alto-hpos="224.0">koberci</w>
+      <w n="10" pos="CCONJ" msd="" lemma="a" alto-height="29.0" alto-width="25.0" alto-vpos="1787.0" alto-hpos="439.0">a</w>
+      <w n="11" pos="ADV" msd="Degree=Pos|Polarity=Pos" lemma="slavnostně" alto-height="42.0" alto-width="254.0" alto-vpos="1775.0" alto-hpos="495.0">slavnostně</w>
+      <w n="12" pos="ADJ" msd="Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="osvětlený" alto-height="43.0" alto-width="214.0" alto-vpos="1774.0" alto-hpos="782.0">osvětlen</w>
+      <pc n="13" pos="PUNCT" join="left" msd="" lemma="." alto-height="43.0" alto-width="214.0" alto-vpos="1774.0" alto-hpos="782.0">.</pc>
+    </s>
+    <s>
+      <forename ana="#nametag-pf">
+        <w n="1" pos="ADP" msd="NumForm=Roman|NumType=Card" lemma="V" alto-height="45.0" alto-width="39.0" alto-vpos="1773.0" alto-hpos="1051.0">V</w>
+        <pc n="2" pos="PUNCT" join="left" msd="" lemma="." alto-height="45.0" alto-width="39.0" alto-vpos="1773.0" alto-hpos="1051.0">.</pc>
+      </forename>
+      <w n="3" pos="NOUN" msd="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="háj" alto-height="53.0" alto-width="89.0" alto-vpos="1773.0" alto-hpos="1120.0">háji</w>
+      <w n="4" pos="ADJ" msd="Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos" lemma="exotický" alto-height="56.0" alto-width="257.0" alto-vpos="1773.0" alto-hpos="1243.0">exotických</w>
+      <w n="5" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="květina" alto-height="42.0" alto-width="151.0" alto-vpos="1774.0" alto-hpos="1536.0">květin</w>
+      <w n="6" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="skvět" alto-height="43.0" alto-width="124.0" alto-vpos="1774.0" alto-hpos="1718.0">skvěl</w>
+      <w n="7" pos="PRON" msd="Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short" lemma="se" alto-height="31.0" alto-width="47.0" alto-vpos="1845.0" alto-hpos="170.0">se</w>
+      <w n="8" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="v" alto-height="30.0" alto-width="26.0" alto-vpos="1845.0" alto-hpos="249.0">v</w>
+      <w n="9" pos="NOUN" msd="Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos" lemma="čelo" alto-height="43.0" alto-width="92.0" alto-vpos="1833.0" alto-hpos="298.0">čele</w>
+      <w n="10" pos="ADP" msd="AdpType=Prep|Case=Ins" lemma="nad" alto-height="42.0" alto-width="84.0" alto-vpos="1833.0" alto-hpos="424.0">nad</w>
+      <w n="11" pos="NOUN" msd="Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos" lemma="sedadlo" alto-height="54.0" alto-width="180.0" alto-vpos="1832.0" alto-hpos="540.0">sedadly</w>
+      <w n="12" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos" lemma="hodnostář" alto-height="43.0" alto-width="273.0" alto-vpos="1832.0" alto-hpos="752.0">hodnostářů</w>
+      <w n="13" pos="ADJ" msd="Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="velký" alto-height="55.0" alto-width="129.0" alto-vpos="1832.0" alto-hpos="1057.0">velký</w>
+      <w n="14" pos="NOUN" msd="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="obraz" alto-height="43.0" alto-width="131.0" alto-vpos="1831.0" alto-hpos="1218.0">obraz</w>
+      <w n="15" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="43.0" alto-width="113.0" alto-vpos="1831.0" alto-hpos="1380.0">Jeho</w>
+      <persName ana="#nametag-pp">
+        <w n="16" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos" lemma="svatost" alto-height="55.0" alto-width="211.0" alto-vpos="1831.0" alto-hpos="1517.0">Svatosti</w>
+      </persName>
+      <pc n="17" pos="PUNCT" join="left" msd="" lemma="," alto-height="55.0" alto-width="211.0" alto-vpos="1831.0" alto-hpos="1517.0">,</pc>
+      <w n="18" pos="ADP" msd="AdpType=Prep|Case=Ins" lemma="pod" alto-height="54.0" alto-width="88.0" alto-vpos="1832.0" alto-hpos="1754.0">pod</w>
+      <w n="19" pos="PRON" msd="Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel" lemma="jenž" alto-height="41.0" alto-width="114.0" alto-vpos="1893.0" alto-hpos="169.0">nímž</w>
+      <w n="20" pos="NOUN" msd="Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos" lemma="poprsí" alto-height="53.0" alto-width="149.0" alto-vpos="1893.0" alto-hpos="316.0">poprsí</w>
+      <w n="21" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="43.0" alto-width="113.0" alto-vpos="1890.0" alto-hpos="496.0">Jeho</w>
+      <persName ana="#nametag-pp">
+        <w n="22" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="veličenstvo" alto-height="44.0" alto-width="284.0" alto-vpos="1890.0" alto-hpos="641.0">Veličenstva</w>
+      </persName>
+      <w n="23" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="krásný" alto-height="41.0" alto-width="193.0" alto-vpos="1893.0" alto-hpos="956.0">krásnou</w>
+      <w n="24" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="výzdoba" alto-height="57.0" alto-width="196.0" alto-vpos="1888.0" alto-hpos="1183.0">výzdobu</w>
+      <w n="25" pos="VERB" msd="Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="doplňovat" alto-height="54.0" alto-width="278.0" alto-vpos="1890.0" alto-hpos="1414.0">doplňovalo</w>
+      <pc n="26" pos="PUNCT" join="left" msd="" lemma="." alto-height="54.0" alto-width="278.0" alto-vpos="1890.0" alto-hpos="1414.0">.</pc>
+    </s>
+    <s>
+      <w n="1" pos="ADP" msd="AdpType=Prep|Case=Gen" lemma="dle" alto-height="42.0" alto-width="81.0" alto-vpos="1950.0" alto-hpos="310.0">Dle</w>
+      <w n="2" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="program" alto-height="42.0" alto-width="235.0" alto-vpos="1962.0" alto-hpos="414.0">programu</w>
+      <w n="3" pos="VERB" msd="Aspect=Perf|Polarity=Pos|Style=Arch|VerbForm=Inf" lemma="zahájit" alto-height="55.0" alto-width="182.0" alto-vpos="1949.0" alto-hpos="671.0">zahájiti</w>
+      <w n="4" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="mít" alto-height="41.0" alto-width="85.0" alto-vpos="1950.0" alto-hpos="873.0">měl</w>
+      <w n="5" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="slavnostní" alto-height="42.0" alto-width="246.0" alto-vpos="1950.0" alto-hpos="982.0">slavnostní</w>
+      <w n="6" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="valný" alto-height="42.0" alto-width="156.0" alto-vpos="1949.0" alto-hpos="1255.0">valnou</w>
+      <w n="7" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="hromada" alto-height="52.0" alto-width="229.0" alto-vpos="1948.0" alto-hpos="1436.0">hromadu</w>
+      <pc n="8" pos="PUNCT" join="left" msd="" lemma="," alto-height="52.0" alto-width="229.0" alto-vpos="1948.0" alto-hpos="1436.0">,</pc>
+      <w n="9" pos="DET" msd="Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel" lemma="kteráž" alto-height="44.0" alto-width="150.0" alto-vpos="1948.0" alto-hpos="1691.0">kteráž</w>
+      <w n="10" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="o" alto-height="30.0" alto-width="25.0" alto-vpos="2022.0" alto-hpos="170.0">o</w>
+      <num type="ordinal" ana="#nametag-no">
+        <w n="11" pos="NUM" msd="NumForm=Digit|NumType=Card" lemma="7" alto-height="45.0" alto-width="37.0" alto-vpos="2007.0" alto-hpos="229.0">7</w>
+        <pc n="12" pos="PUNCT" join="left" msd="" lemma="." alto-height="45.0" alto-width="37.0" alto-vpos="2007.0" alto-hpos="229.0">.</pc>
+      </num>
+      <w n="13" pos="NOUN" msd="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="hodina" alto-height="42.0" alto-width="163.0" alto-vpos="2009.0" alto-hpos="300.0">hodině</w>
+      <w n="14" pos="ADV" msd="" lemma="večer" alto-height="44.0" alto-width="129.0" alto-vpos="2007.0" alto-hpos="486.0">večer</w>
+      <w n="15" pos="VERB" msd="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="počít" alto-height="54.0" alto-width="167.0" alto-vpos="2008.0" alto-hpos="633.0">počala</w>
+      <pc n="16" pos="PUNCT" join="left" msd="" lemma="," alto-height="54.0" alto-width="167.0" alto-vpos="2008.0" alto-hpos="633.0">,</pc>
+      <w n="17" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="44.0" alto-width="114.0" alto-vpos="2007.0" alto-hpos="833.0">Jeho</w>
+      <objectName type="artefact" ana="#nametag-oa">
+        <w n="18" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="jasnost" alto-height="53.0" alto-width="196.0" alto-vpos="2008.0" alto-hpos="969.0">Jasnost</w>
+      </objectName>
+      <pc n="19" pos="PUNCT" join="left" msd="" lemma="," alto-height="53.0" alto-width="196.0" alto-vpos="2008.0" alto-hpos="969.0">,</pc>
+      <persName ana="#nametag-P">
+        <forename ana="#nametag-pf">
+          <w n="20" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Karel" alto-height="43.0" alto-width="133.0" alto-vpos="2007.0" alto-hpos="1197.0">Karel</w>
+        </forename>
+        <w n="21" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="princ" alto-height="54.0" alto-width="122.0" alto-vpos="2007.0" alto-hpos="1352.0">princ</w>
+        <w n="22" pos="ADP" msd="AdpType=Voc|Case=Gen" lemma="z" alto-height="30.0" alto-width="48.0" alto-vpos="2020.0" alto-hpos="1498.0">ze</w>
+        <placeName ana="#nametag-gu">
+          <settlement ana="#nametag-gu">
+            <w n="23" pos="ADJ" msd="Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Schwarzen" alto-height="44.0" alto-width="272.0" alto-vpos="2007.0" alto-hpos="1570.0">Schwarzen</w>
+          </settlement>
+        </placeName>
+        <pc n="24" pos="PUNCT" join="left" msd="" lemma="-" alto-height="44.0" alto-width="272.0" alto-vpos="2007.0" alto-hpos="1570.0">-</pc>
+        <w n="25" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos" lemma="berg" alto-height="54.0" alto-width="153.0" alto-vpos="2067.0" alto-hpos="169.0">bergů</w>
+      </persName>
+      <pc n="26" pos="PUNCT" join="left" msd="" lemma="," alto-height="54.0" alto-width="153.0" alto-vpos="2067.0" alto-hpos="169.0">,</pc>
+      <w n="27" pos="SCONJ" msd="" lemma="jako" alto-height="55.0" alto-width="104.0" alto-vpos="2066.0" alto-hpos="366.0">jako</w>
+      <w n="28" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="předseda" alto-height="54.0" alto-width="219.0" alto-vpos="2066.0" alto-hpos="505.0">předseda</w>
+      <w n="29" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="bratrstvo" alto-height="54.0" alto-width="236.0" alto-vpos="2066.0" alto-hpos="765.0">bratrstva</w>
+      <pc n="30" pos="PUNCT" join="left" msd="" lemma="," alto-height="54.0" alto-width="236.0" alto-vpos="2066.0" alto-hpos="765.0">,</pc>
+      <w n="31" pos="SCONJ" msd="" lemma="jelikož" alto-height="55.0" alto-width="166.0" alto-vpos="2066.0" alto-hpos="1042.0">jelikož</w>
+      <w n="32" pos="CCONJ" msd="" lemma="však" alto-height="45.0" alto-width="108.0" alto-vpos="2063.0" alto-hpos="1257.0">však</w>
+      <w n="33" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="pro" alto-height="41.0" alto-width="77.0" alto-vpos="2078.0" alto-hpos="1414.0">pro</w>
+      <w n="34" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="nemoc" alto-height="31.0" alto-width="156.0" alto-vpos="2078.0" alto-hpos="1525.0">nemoc</w>
+      <w n="35" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="shromáždění" alto-height="44.0" alto-width="105.0" alto-vpos="2065.0" alto-hpos="1713.0">shromáždění</w>
+      <w n="36" pos="DET" msd="Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem" lemma="ten" alto-height="43.0" alto-width="106.0" alto-vpos="2125.0" alto-hpos="401.0">toho</w>
+      <w n="37" pos="ADV" msd="" lemma="vůbec" alto-height="43.0" alto-width="137.0" alto-vpos="2124.0" alto-hpos="541.0">vůbec</w>
+      <w n="38" pos="VERB" msd="Aspect=Perf|Polarity=Pos|Style=Arch|VerbForm=Inf" lemma="súčastnit" alto-height="44.0" alto-width="235.0" alto-vpos="2124.0" alto-hpos="708.0">súčastniti</w>
+      <w n="39" pos="PRON" msd="Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short" lemma="se" alto-height="31.0" alto-width="47.0" alto-vpos="2137.0" alto-hpos="976.0">se</w>
+      <w n="40" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act" lemma="moci" alto-height="51.0" alto-width="192.0" alto-vpos="2124.0" alto-hpos="1056.0">nemohl</w>
+      <pc n="41" pos="PUNCT" join="left" msd="" lemma="," alto-height="51.0" alto-width="192.0" alto-vpos="2124.0" alto-hpos="1056.0">,</pc>
+      <w n="42" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="převzít" alto-height="53.0" alto-width="175.0" alto-vpos="2125.0" alto-hpos="1298.0">převzal</w>
+      <w n="43" pos="NOUN" msd="Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos" lemma="předsednictví" alto-height="54.0" alto-width="335.0" alto-vpos="2124.0" alto-hpos="1507.0">předsednictví</w>
+      <w n="44" pos="NOUN" msd="Abbr=Yes|Gender=Fem|Polarity=Pos" lemma="VDP" alto-height="55.0" alto-width="101.0" alto-vpos="2184.0" alto-hpos="170.0">vdp</w>
+      <pc n="45" pos="PUNCT" join="left" msd="" lemma="." alto-height="55.0" alto-width="101.0" alto-vpos="2184.0" alto-hpos="170.0">.</pc>
+      <w n="46" pos="NOUN" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="knízko" alto-height="43.0" alto-width="113.0" alto-vpos="2184.0" alto-hpos="303.0">kníž</w>
+      <pc n="47" pos="PUNCT" join="left" msd="" lemma="." alto-height="43.0" alto-width="113.0" alto-vpos="2184.0" alto-hpos="303.0">.</pc>
+    </s>
+    <s>
+      <w n="1" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="arcib" alto-height="43.0" alto-width="131.0" alto-vpos="2183.0" alto-hpos="466.0">arcib</w>
+      <pc n="2" pos="PUNCT" join="left" msd="" lemma="." alto-height="43.0" alto-width="131.0" alto-vpos="2183.0" alto-hpos="466.0">.</pc>
+      <w n="3" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="vikář" alto-height="43.0" alto-width="125.0" alto-vpos="2183.0" alto-hpos="648.0">vikář</w>
+      <persName ana="#nametag-P">
+        <abbr ana="#nametag-pd">
+          <w n="4" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="Thlg" alto-height="54.0" alto-width="123.0" alto-vpos="2183.0" alto-hpos="803.0">Thlg</w>
+          <pc n="5" pos="PUNCT" join="left" msd="" lemma="." alto-height="54.0" alto-width="123.0" alto-vpos="2183.0" alto-hpos="803.0">.</pc>
+        </abbr>
+        <abbr ana="#nametag-pd">
+          <w n="6" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="doktor" alto-height="42.0" alto-width="74.0" alto-vpos="2183.0" alto-hpos="960.0">Dr</w>
+          <pc n="7" pos="PUNCT" join="left" msd="" lemma="." alto-height="42.0" alto-width="74.0" alto-vpos="2183.0" alto-hpos="960.0">.</pc>
+        </abbr>
+        <forename ana="#nametag-pf">
+          <w n="8" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Frant" alto-height="43.0" alto-width="145.0" alto-vpos="2182.0" alto-hpos="1069.0">Frant</w>
+          <pc n="9" pos="PUNCT" join="left" msd="" lemma="." alto-height="43.0" alto-width="145.0" alto-vpos="2182.0" alto-hpos="1069.0">.</pc>
+        </forename>
+      </persName>
+    </s>
+    <s>
+      <surname ana="#nametag-ps">
+        <w n="1" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Hrádek" alto-height="52.0" alto-width="192.0" alto-vpos="2181.0" alto-hpos="1256.0">Hrádek</w>
+      </surname>
+      <pc n="2" pos="PUNCT" join="left" msd="" lemma="," alto-height="52.0" alto-width="192.0" alto-vpos="2181.0" alto-hpos="1256.0">,</pc>
+      <w n="3" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="místopředseda" alto-height="53.0" alto-width="357.0" alto-vpos="2183.0" alto-hpos="1484.0">místopředseda</w>
+      <w n="4" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="bratrstvo" alto-height="43.0" alto-width="223.0" alto-vpos="2243.0" alto-hpos="170.0">bratrstva</w>
+      <w n="5" pos="CCONJ" msd="" lemma="a" alto-height="28.0" alto-width="23.0" alto-vpos="2256.0" alto-hpos="437.0">a</w>
+      <w n="6" pos="VERB" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="zahájit" alto-height="54.0" alto-width="161.0" alto-vpos="2242.0" alto-hpos="503.0">zahájil</w>
+      <w n="7" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="po" alto-height="42.0" alto-width="54.0" alto-vpos="2254.0" alto-hpos="708.0">po</w>
+      <w n="8" pos="NOUN" msd="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="příchod" alto-height="53.0" alto-width="214.0" alto-vpos="2242.0" alto-hpos="807.0">příchodu</w>
+      <w n="9" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="43.0" alto-width="112.0" alto-vpos="2241.0" alto-hpos="1064.0">Jeho</w>
+      <persName ana="#nametag-pp">
+        <w n="10" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="eminence" alto-height="44.0" alto-width="233.0" alto-vpos="2240.0" alto-hpos="1218.0">Eminencí</w>
+        <w n="11" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Neg" lemma="jdùst" alto-height="55.0" alto-width="195.0" alto-vpos="2241.0" alto-hpos="1496.0">nejdùst</w>
+        <pc n="12" pos="PUNCT" join="left" msd="" lemma="." alto-height="55.0" alto-width="195.0" alto-vpos="2241.0" alto-hpos="1496.0">.</pc>
+      </persName>
+    </s>
+    <s>
+      <w n="1" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="pan" alto-height="42.0" alto-width="114.0" alto-vpos="2254.0" alto-hpos="1727.0">pana</w>
+      <w n="2" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="kardinál" alto-height="54.0" alto-width="242.0" alto-vpos="2300.0" alto-hpos="171.0">kardinála</w>
+      <pc n="3" pos="PUNCT" join="left" msd="" lemma="," alto-height="54.0" alto-width="242.0" alto-vpos="2300.0" alto-hpos="171.0">,</pc>
+      <w n="4" pos="PRON" msd="Case=Nom|Gender=Masc|Number=Sing|PrepCase=Npr|PronType=Rel" lemma="jenž" alto-height="52.0" alto-width="99.0" alto-vpos="2301.0" alto-hpos="442.0">jenž</w>
+      <w n="5" pos="NOUN" msd="Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos" lemma="povstání" alto-height="52.0" alto-width="246.0" alto-vpos="2302.0" alto-hpos="575.0">povstáním</w>
+      <w n="6" pos="ADP" msd="AdpType=Voc|Case=Gen" lemma="z" alto-height="30.0" alto-width="50.0" alto-vpos="2313.0" alto-hpos="851.0">ze</w>
+      <w n="7" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos" lemma="sedadlo" alto-height="42.0" alto-width="180.0" alto-vpos="2300.0" alto-hpos="926.0">sedadel</w>
+      <w n="8" pos="ADJ" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="uvítaný" alto-height="42.0" alto-width="153.0" alto-vpos="2300.0" alto-hpos="1138.0">uvítán</w>
+      <w n="9" pos="AUX" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" alto-height="54.0" alto-width="86.0" alto-vpos="2299.0" alto-hpos="1322.0">byl</w>
+      <pc n="10" pos="PUNCT" join="left" msd="" lemma="," alto-height="54.0" alto-width="86.0" alto-vpos="2299.0" alto-hpos="1322.0">,</pc>
+      <w n="11" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="valný" alto-height="43.0" alto-width="159.0" alto-vpos="2300.0" alto-hpos="1444.0">valnou</w>
+      <w n="12" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="hromada" alto-height="44.0" alto-width="216.0" alto-vpos="2299.0" alto-hpos="1628.0">hromadu</w>
+      <w n="13" pos="ADJ" msd="Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="obvyklý" alto-height="55.0" alto-width="231.0" alto-vpos="2359.0" alto-hpos="172.0">obvyklým</w>
+      <w n="14" pos="NOUN" msd="Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos" lemma="křestanskýr" alto-height="55.0" alto-width="307.0" alto-vpos="2359.0" alto-hpos="436.0">křestanskýra</w>
+      <w n="15" pos="NOUN" msd="Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos" lemma="pozdrav" alto-height="53.0" alto-width="277.0" alto-vpos="2359.0" alto-hpos="778.0">pozdravem</w>
+      <pc n="16" pos="PUNCT" join="left" msd="" lemma="," alto-height="53.0" alto-width="277.0" alto-vpos="2359.0" alto-hpos="778.0">,</pc>
+      <w n="17" pos="CCONJ" msd="" lemma="a" alto-height="30.0" alto-width="26.0" alto-vpos="2370.0" alto-hpos="1087.0">a</w>
+      <w n="18" pos="NOUN" msd="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="poděkovav" alto-height="54.0" alto-width="258.0" alto-vpos="2358.0" alto-hpos="1145.0">poděkovav</w>
+      <w n="19" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="45.0" alto-width="112.0" alto-vpos="2357.0" alto-hpos="1457.0">Jeho</w>
+      <persName ana="#nametag-pp">
+        <w n="20" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos" lemma="eminence" alto-height="43.0" alto-width="231.0" alto-vpos="2358.0" alto-hpos="1615.0">Eminencí</w>
+      </persName>
+      <w n="21" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="vroucný" alto-height="40.0" alto-width="189.0" alto-vpos="2421.0" alto-hpos="174.0">vroucné</w>
+      <w n="22" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="za" alto-height="29.0" alto-width="48.0" alto-vpos="2431.0" alto-hpos="397.0">za</w>
+      <w n="23" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="čest" alto-height="50.0" alto-width="108.0" alto-vpos="2418.0" alto-hpos="478.0">čest</w>
+      <pc n="24" pos="PUNCT" join="left" msd="" lemma="," alto-height="50.0" alto-width="108.0" alto-vpos="2418.0" alto-hpos="478.0">,</pc>
+      <w n="25" pos="DET" msd="Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel" lemma="který" alto-height="43.0" alto-width="166.0" alto-vpos="2418.0" alto-hpos="634.0">kterou</w>
+      <w n="26" pos="DET" msd="Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes" lemma="svůj" alto-height="43.0" alto-width="118.0" alto-vpos="2417.0" alto-hpos="836.0">Svou</w>
+      <w n="27" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos" lemma="přítomnost" alto-height="52.0" alto-width="280.0" alto-vpos="2417.0" alto-hpos="998.0">přítomností</w>
+      <w n="28" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="celý" alto-height="41.0" alto-width="167.0" alto-vpos="2418.0" alto-hpos="1322.0">celému</w>
+      <w n="29" pos="NOUN" msd="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos" lemma="shromáždění" alto-height="42.0" alto-width="305.0" alto-vpos="2418.0" alto-hpos="1541.0">shromáždění</w>
+      <w n="30" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="prokázat" alto-height="52.0" alto-width="218.0" alto-vpos="2477.0" alto-hpos="176.0">prokázal</w>
+      <pc n="31" pos="PUNCT" join="left" msd="" lemma="," alto-height="52.0" alto-width="218.0" alto-vpos="2477.0" alto-hpos="176.0">,</pc>
+      <w n="32" pos="VERB" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="představit" alto-height="54.0" alto-width="242.0" alto-vpos="2476.0" alto-hpos="441.0">představil</w>
+      <w n="33" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="zástupce" alto-height="54.0" alto-width="209.0" alto-vpos="2477.0" alto-hpos="729.0">zástupce</w>
+      <w n="34" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="diecése" alto-height="43.0" alto-width="166.0" alto-vpos="2476.0" alto-hpos="971.0">diecésí</w>
+      <w n="35" pos="CCONJ" msd="" lemma="a" alto-height="29.0" alto-width="25.0" alto-vpos="2489.0" alto-hpos="1180.0">a</w>
+      <w n="36" pos="ADV" msd="" lemma="sice" alto-height="43.0" alto-width="89.0" alto-vpos="2475.0" alto-hpos="1254.0">sice</w>
+      <w n="37" pos="ADJ" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="vdpp" alto-height="53.0" alto-width="130.0" alto-vpos="2476.0" alto-hpos="1392.0">vdpp</w>
+      <pc n="38" pos="PUNCT" join="left" msd="" lemma="." alto-height="53.0" alto-width="130.0" alto-vpos="2476.0" alto-hpos="1392.0">.</pc>
+      <w n="39" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos" lemma="kanovník" alto-height="54.0" alto-width="277.0" alto-vpos="2476.0" alto-hpos="1570.0">kanovníky</w>
+      <pc n="40" pos="PUNCT" join="left" msd="" lemma=":" alto-height="54.0" alto-width="277.0" alto-vpos="2476.0" alto-hpos="1570.0">:</pc>
+      <persName ana="#nametag-P">
+        <abbr ana="#nametag-pd">
+          <w n="41" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="Thlg" alto-height="54.0" alto-width="124.0" alto-vpos="2535.0" alto-hpos="173.0">Thlg</w>
+          <pc n="42" pos="PUNCT" join="left" msd="" lemma="." alto-height="54.0" alto-width="124.0" alto-vpos="2535.0" alto-hpos="173.0">.</pc>
+        </abbr>
+      </persName>
+    </s>
+    <s>
+      <abbr ana="#nametag-pd">
+        <w n="1" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="droktor" alto-height="43.0" alto-width="106.0" alto-vpos="2535.0" alto-hpos="330.0">Dra</w>
+        <pc n="2" pos="PUNCT" join="left" msd="" lemma="." alto-height="43.0" alto-width="106.0" alto-vpos="2535.0" alto-hpos="330.0">.</pc>
+        <surname ana="#nametag-ps">
+          <w n="3" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Michla" alto-height="43.0" alto-width="162.0" alto-vpos="2534.0" alto-hpos="470.0">Michla</w>
+        </surname>
+      </abbr>
+      <w n="4" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="za" alto-height="29.0" alto-width="49.0" alto-vpos="2548.0" alto-hpos="655.0">za</w>
+      <placeName ana="#nametag-gu">
+        <settlement ana="#nametag-gu">
+          <w n="5" pos="PROPN" msd="Case=Acc|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Litoměřicko" alto-height="52.0" alto-width="314.0" alto-vpos="2535.0" alto-hpos="726.0">Litoměřicko</w>
+        </settlement>
+      </placeName>
+      <pc n="6" pos="PUNCT" join="left" msd="" lemma="," alto-height="52.0" alto-width="314.0" alto-vpos="2535.0" alto-hpos="726.0">,</pc>
+      <persName ana="#nametag-P">
+        <forename ana="#nametag-pf">
+          <w n="7" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Frant" alto-height="43.0" alto-width="148.0" alto-vpos="2534.0" alto-hpos="1063.0">Frant</w>
+          <pc n="8" pos="PUNCT" join="left" msd="" lemma="." alto-height="43.0" alto-width="148.0" alto-vpos="2534.0" alto-hpos="1063.0">.</pc>
+        </forename>
+      </persName>
+    </s>
+    <s>
+      <surname ana="#nametag-ps">
+        <w n="1" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Dichtla" alto-height="43.0" alto-width="178.0" alto-vpos="2533.0" alto-hpos="1235.0">Dichtla</w>
+      </surname>
+      <w n="2" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="za" alto-height="29.0" alto-width="51.0" alto-vpos="2547.0" alto-hpos="1444.0">za</w>
+      <placeName ana="#nametag-gu">
+        <settlement ana="#nametag-gu">
+          <w n="3" pos="PROPN" msd="Case=Acc|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Budějovicko" alto-height="56.0" alto-width="318.0" alto-vpos="2533.0" alto-hpos="1526.0">Budějovicko</w>
+        </settlement>
+      </placeName>
+      <pc n="4" pos="PUNCT" join="left" msd="" lemma="," alto-height="56.0" alto-width="318.0" alto-vpos="2533.0" alto-hpos="1526.0">,</pc>
+      <w n="5" pos="CCONJ" msd="" lemma="a" alto-height="29.0" alto-width="25.0" alto-vpos="2607.0" alto-hpos="174.0">a</w>
+      <persName ana="#nametag-P">
+        <abbr ana="#nametag-pd">
+          <w n="6" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Thlg" alto-height="54.0" alto-width="123.0" alto-vpos="2593.0" alto-hpos="230.0">Thlg</w>
+          <pc n="7" pos="PUNCT" join="left" msd="" lemma="." alto-height="54.0" alto-width="123.0" alto-vpos="2593.0" alto-hpos="230.0">.</pc>
+        </abbr>
+      </persName>
+    </s>
+    <s>
+      <abbr ana="#nametag-pd">
+        <w n="1" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="droktor" alto-height="44.0" alto-width="102.0" alto-vpos="2593.0" alto-hpos="387.0">Dra</w>
+        <pc n="2" pos="PUNCT" join="left" msd="" lemma="." alto-height="44.0" alto-width="102.0" alto-vpos="2593.0" alto-hpos="387.0">.</pc>
+        <forename ana="#nametag-pf">
+          <w n="3" pos="PROPN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|NameType=Giv|Polarity=Pos" lemma="Frant" alto-height="43.0" alto-width="146.0" alto-vpos="2593.0" alto-hpos="523.0">Frant</w>
+          <pc n="4" pos="PUNCT" join="left" msd="" lemma="." alto-height="43.0" alto-width="146.0" alto-vpos="2593.0" alto-hpos="523.0">.</pc>
+        </forename>
+        <forename ana="#nametag-pf">
+          <w n="5" pos="PROPN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|NameType=Giv|Polarity=Pos" lemma="X" alto-height="44.0" alto-width="52.0" alto-vpos="2593.0" alto-hpos="702.0">X</w>
+          <pc n="6" pos="PUNCT" join="left" msd="" lemma="." alto-height="44.0" alto-width="52.0" alto-vpos="2593.0" alto-hpos="702.0">.</pc>
+        </forename>
+        <surname ana="#nametag-ps">
+          <w n="7" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Kryštůfek" alto-height="56.0" alto-width="259.0" alto-vpos="2592.0" alto-hpos="788.0">Kryštůfka</w>
+        </surname>
+      </abbr>
+      <pc n="8" pos="PUNCT" join="left" msd="" lemma="," alto-height="56.0" alto-width="259.0" alto-vpos="2592.0" alto-hpos="788.0">,</pc>
+      <w n="9" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="prorektor" alto-height="53.0" alto-width="264.0" alto-vpos="2592.0" alto-hpos="1100.0">prorektora</w>
+      <w n="10" pos="CCONJ" msd="" lemma="a" alto-height="29.0" alto-width="26.0" alto-vpos="2606.0" alto-hpos="1395.0">a</w>
+      <persName ana="#nametag-P">
+        <abbr ana="#nametag-pd">
+          <w n="11" pos="ADJ" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="c" alto-height="30.0" alto-width="34.0" alto-vpos="2605.0" alto-hpos="1464.0">c</w>
+          <pc n="12" pos="PUNCT" join="left" msd="" lemma="." alto-height="30.0" alto-width="34.0" alto-vpos="2605.0" alto-hpos="1464.0">.</pc>
+          <w n="13" pos="NOUN" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="k" alto-height="42.0" alto-width="42.0" alto-vpos="2593.0" alto-hpos="1530.0">k</w>
+          <pc n="14" pos="PUNCT" join="left" msd="" lemma="." alto-height="42.0" alto-width="42.0" alto-vpos="2593.0" alto-hpos="1530.0">.</pc>
+        </abbr>
+      </persName>
+      <w n="15" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="profesor" alto-height="54.0" alto-width="230.0" alto-vpos="2593.0" alto-hpos="1616.0">profesora</w>
+      <w n="16" pos="ADJ" msd="Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="český" alto-height="44.0" alto-width="132.0" alto-vpos="2653.0" alto-hpos="173.0">české</w>
+      <w n="17" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos" lemma="univerzita" alto-height="54.0" alto-width="245.0" alto-vpos="2652.0" alto-hpos="348.0">university</w>
+      <persName ana="#nametag-P">
+        <forename ana="#nametag-pf">
+          <w n="18" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Karlo" alto-height="43.0" alto-width="133.0" alto-vpos="2652.0" alto-hpos="626.0">Karlo</w>
+        </forename>
+        <surname ana="#nametag-ps">
+          <w n="19" pos="PROPN" msd="Case=Gen|Gender=Fem|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Ferdinandská" alto-height="44.0" alto-width="334.0" alto-vpos="2651.0" alto-hpos="781.0">Ferdinandské</w>
+        </surname>
+      </persName>
+      <w n="20" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="za" alto-height="29.0" alto-width="50.0" alto-vpos="2664.0" alto-hpos="1146.0">za</w>
+      <placeName ana="#nametag-gr">
+        <region ana="#nametag-gr">
+          <w n="21" pos="PROPN" msd="Case=Acc|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Králohradecko" alto-height="47.0" alto-width="377.0" alto-vpos="2648.0" alto-hpos="1239.0">Králohradecko</w>
+        </region>
+      </placeName>
+      <pc n="22" pos="PUNCT" join="left" msd="" lemma="." alto-height="47.0" alto-width="377.0" alto-vpos="2648.0" alto-hpos="1239.0">.</pc>
+    </s>
+    <s>
+      <pc n="1" pos="PUNCT" join="left" msd="" lemma="—" alto-height="9.0" alto-width="50.0" alto-vpos="2675.0" alto-hpos="1654.0">—</pc>
+      <w n="2" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="po" alto-height="43.0" alto-width="58.0" alto-vpos="2710.0" alto-hpos="314.0">Po</w>
+      <w n="3" pos="DET" msd="Case=Loc|Gender=Fem|Number=Sing|PronType=Dem" lemma="ten" alto-height="44.0" alto-width="44.0" alto-vpos="2711.0" alto-hpos="420.0">té</w>
+      <w n="4" pos="VERB" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="sdělit" alto-height="43.0" alto-width="129.0" alto-vpos="2711.0" alto-hpos="511.0">sdělil</w>
+      <w n="5" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="pan" alto-height="41.0" alto-width="85.0" alto-vpos="2723.0" alto-hpos="683.0">pan</w>
+      <w n="6" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="předseda" alto-height="54.0" alto-width="220.0" alto-vpos="2710.0" alto-hpos="816.0">předseda</w>
+      <w n="7" pos="NOUN" msd="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="obsah" alto-height="44.0" alto-width="138.0" alto-vpos="2709.0" alto-hpos="1068.0">obsah</w>
+      <w n="8" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="telegram" alto-height="54.0" alto-width="245.0" alto-vpos="2709.0" alto-hpos="1251.0">telegramu</w>
+      <w n="9" pos="ADP" msd="AdpType=Prep|Case=Gen" lemma="z" alto-height="29.0" alto-width="21.0" alto-vpos="2724.0" alto-hpos="1529.0">z</w>
+      <placeName ana="#nametag-gu">
+        <settlement ana="#nametag-gu">
+          <w n="10" pos="PROPN" msd="Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Řím" alto-height="58.0" alto-width="139.0" alto-vpos="2701.0" alto-hpos="1584.0">Říma</w>
+        </settlement>
+      </placeName>
+      <pc n="11" pos="PUNCT" join="left" msd="" lemma="," alto-height="58.0" alto-width="139.0" alto-vpos="2701.0" alto-hpos="1584.0">,</pc>
+      <w n="12" pos="ADP" msd="AdpType=Prep|Case=Gen" lemma="dle" alto-height="43.0" alto-width="71.0" alto-vpos="2710.0" alto-hpos="1774.0">dle</w>
+      <w n="13" pos="PRON" msd="Case=Gen|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel" lemma="jenž" alto-height="43.0" alto-width="139.0" alto-vpos="2769.0" alto-hpos="174.0">něhož</w>
+      <w n="14" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="být" alto-height="55.0" alto-width="92.0" alto-vpos="2769.0" alto-hpos="342.0">jest</w>
+      <w n="15" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" alto-height="43.0" alto-width="113.0" alto-vpos="2770.0" alto-hpos="465.0">Jeho</w>
+      <date type="holiday" ana="#nametag-tf">
+        <w n="16" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos" lemma="eminence" alto-height="43.0" alto-width="230.0" alto-vpos="2769.0" alto-hpos="611.0">Eminencí</w>
+        <w n="17" pos="ADJ" msd="Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="splnomocněný" alto-height="54.0" alto-width="324.0" alto-vpos="2769.0" alto-hpos="875.0">splnomocněn</w>
+      </date>
+      <pc n="18" pos="PUNCT" join="left" msd="" lemma="," alto-height="54.0" alto-width="324.0" alto-vpos="2769.0" alto-hpos="875.0">,</pc>
+      <w n="19" pos="VERB" msd="Aspect=Perf|Polarity=Pos|VerbForm=Inf" lemma="uclěliti" alto-height="43.0" alto-width="158.0" alto-vpos="2768.0" alto-hpos="1233.0">uclěliti</w>
+      <w n="20" pos="ADJ" msd="Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos" lemma="přítomný" alto-height="55.0" alto-width="264.0" alto-vpos="2769.0" alto-hpos="1425.0">přítomným</w>
+      <w n="21" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="apoštolský" alto-height="40.0" alto-width="83.0" alto-vpos="2782.0" alto-hpos="1734.0">apoštolské</w>
+      <w n="22" pos="NOUN" msd="Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos" lemma="požehnání" alto-height="53.0" alto-width="242.0" alto-vpos="2828.0" alto-hpos="380.0">požehnání</w>
+      <pc n="23" pos="PUNCT" join="left" msd="" lemma=";" alto-height="39.0" alto-width="10.0" alto-vpos="2840.0" alto-hpos="641.0">;</pc>
+      <w n="24" pos="NOUN" msd="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="telegram" alto-height="54.0" alto-width="212.0" alto-vpos="2828.0" alto-hpos="684.0">telegram</w>
+      <w n="25" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="znít" alto-height="41.0" alto-width="69.0" alto-vpos="2829.0" alto-hpos="929.0">zní</w>
+      <pc n="26" pos="PUNCT" join="left" msd="" lemma=":" alto-height="26.0" alto-width="9.0" alto-vpos="2842.0" alto-hpos="1013.0">:</pc>
+      <pc n="27" pos="PUNCT" join="both" msd="" lemma="." alto-height="56.0" alto-width="168.0" alto-vpos="2885.0" alto-hpos="318.0">.</pc>
+      <w n="28" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="papež" alto-height="56.0" alto-width="168.0" alto-vpos="2885.0" alto-hpos="318.0">Papež</w>
+      <persName ana="#nametag-P">
+        <forename ana="#nametag-pf">
+          <w n="29" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Lev" alto-height="43.0" alto-width="90.0" alto-vpos="2887.0" alto-hpos="509.0">Lev</w>
+        </forename>
+        <surname ana="#nametag-ps">
+          <w n="30" pos="NUM" msd="NumForm=Roman|NumType=Card" lemma="XIII" alto-height="44.0" alto-width="118.0" alto-vpos="2886.0" alto-hpos="632.0">XIII</w>
+          <pc n="31" pos="PUNCT" join="left" msd="" lemma="." alto-height="44.0" alto-width="118.0" alto-vpos="2886.0" alto-hpos="632.0">.</pc>
+        </surname>
+      </persName>
+      <w n="32" pos="VERB" msd="Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="udělovat" alto-height="55.0" alto-width="180.0" alto-vpos="2886.0" alto-hpos="783.0">uděluje</w>
+      <objectName type="artefact" ana="#nametag-oa">
+        <w n="33" pos="DET" msd="Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs" lemma="tvůj" alto-height="44.0" alto-width="105.0" alto-vpos="2885.0" alto-hpos="995.0">Vaší</w>
+        <w n="34" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos" lemma="eminence" alto-height="44.0" alto-width="229.0" alto-vpos="2885.0" alto-hpos="1122.0">Eminencí</w>
+        <w n="35" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="plný" alto-height="54.0" alto-width="135.0" alto-vpos="2886.0" alto-hpos="1385.0">plnou</w>
+        <w n="36" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="moc" alto-height="40.0" alto-width="110.0" alto-vpos="2897.0" alto-hpos="1553.0">moc</w>
+      </objectName>
+      <pc n="37" pos="PUNCT" join="left" msd="" lemma="," alto-height="40.0" alto-width="110.0" alto-vpos="2897.0" alto-hpos="1553.0">,</pc>
+      <w n="38" pos="VERB" msd="Aspect=Perf|Polarity=Pos|Style=Arch|VerbForm=Inf" lemma="udělit" alto-height="43.0" alto-width="158.0" alto-vpos="2885.0" alto-hpos="1688.0">uděliti</w>
+      <w n="39" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="apoštolský" alto-height="52.0" alto-width="258.0" alto-vpos="2945.0" alto-hpos="174.0">apoštolské</w>
+      <w n="40" pos="NOUN" msd="Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos" lemma="požehnání" alto-height="55.0" alto-width="244.0" alto-vpos="2945.0" alto-hpos="480.0">požehnání</w>
+      <w n="41" pos="NOUN" msd="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos" lemma="bratrstvo" alto-height="43.0" alto-width="226.0" alto-vpos="2945.0" alto-hpos="767.0">bratrstvu</w>
+      <persName ana="#nametag-pp">
+        <w n="42" pos="ADJ" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="svatý" alto-height="31.0" alto-width="62.0" alto-vpos="2957.0" alto-hpos="1037.0">sv</w>
+        <pc n="43" pos="PUNCT" join="left" msd="" lemma="." alto-height="31.0" alto-width="62.0" alto-vpos="2957.0" alto-hpos="1037.0">.</pc>
+        <w n="44" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Michael" alto-height="53.0" alto-width="232.0" alto-vpos="2944.0" alto-hpos="1133.0">Michaela</w>
+      </persName>
+      <pc n="45" pos="PUNCT" join="left" msd="" lemma="," alto-height="53.0" alto-width="232.0" alto-vpos="2944.0" alto-hpos="1133.0">,</pc>
+      <w n="46" pos="SCONJ" msd="" lemma="jakož" alto-height="55.0" alto-width="132.0" alto-vpos="2944.0" alto-hpos="1404.0">jakož</w>
+      <w n="47" pos="CCONJ" msd="" lemma="i" alto-height="42.0" alto-width="13.0" alto-vpos="2944.0" alto-hpos="1580.0">i</w>
+      <w n="48" pos="DET" msd="Case=Dat|Number=Plur|PronType=Tot" lemma="všechen" alto-height="42.0" alto-width="119.0" alto-vpos="2945.0" alto-hpos="1627.0">všem</w>
+      <w n="49" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="při" alto-height="54.0" alto-width="68.0" alto-vpos="2943.0" alto-hpos="1781.0">při</w>
+      <w n="50" pos="ADJ" msd="Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="slavný" alto-height="45.0" alto-width="151.0" alto-vpos="3003.0" alto-hpos="176.0">slavné</w>
+      <w n="51" pos="NOUN" msd="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="schůze" alto-height="44.0" alto-width="151.0" alto-vpos="3004.0" alto-hpos="360.0">schůzi</w>
+      <w n="52" pos="ADJ" msd="Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos" lemma="přítomný" alto-height="56.0" alto-width="305.0" alto-vpos="3005.0" alto-hpos="546.0">přítomným</w>
+      <pc n="53" pos="PUNCT" join="both" msd="" lemma="." alto-height="56.0" alto-width="305.0" alto-vpos="3005.0" alto-hpos="546.0">.</pc>
+    </s>
+    <s>
+      <pc n="1" pos="PUNCT" join="both" msd="" lemma="“" alto-height="56.0" alto-width="305.0" alto-vpos="3005.0" alto-hpos="546.0">“</pc>
+    </s>
+  </p>
+</div>

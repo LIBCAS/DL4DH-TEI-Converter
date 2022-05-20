@@ -1,0 +1,61 @@
+{
+  "title": "Protokol ... veřejné schůze bratrstva sv. Michala v Praze dne",
+  "source": "https://dnnt.mzk.cz/view/uuid:319546a0-5a42-11eb-b4d1-005056827e51 https://dnnt.mzk.cz/search/api/v5.0/item/uuid:319546a0-5a42-11eb-b4d1-005056827e51/",
+  "author": {
+    "type": "corporate",
+    "name": "Bratrstvo sv. Michala",
+    "identifier": "kn20050602019"
+  },
+  "physicalDescription": {
+    "extent": "^^^sv. ; 23 cm"
+  },
+  "originInfo": {
+    "publisher": "Bratrstvo sv. Michala",
+    "date": "[1878]-[1918]",
+    "places": [
+      "V Praze"
+    ]
+  },
+  "identifiers": [
+    {
+      "type": "barCode",
+      "value": "1004407716"
+    },
+    {
+      "type": "uuid",
+      "value": "319546a0-5a42-11eb-b4d1-005056827e51"
+    },
+    {
+      "type": "ccnb",
+      "value": "cnb000964752"
+    },
+    {
+      "type": "ccnb",
+      "value": "cnb001503907"
+    },
+    {
+      "type": "oclc",
+      "value": "85591009"
+    },
+    {
+      "type": "oclc",
+      "value": "85001648"
+    }
+  ],
+  "processedBy": [
+    {
+      "identifier": "NameTag",
+      "version": "2",
+      "from": "2021-09-23T22:20:00",
+      "to": "2021-09-23T22:21:00",
+      "label": "NameTag, model: czech-cnec2.0-200831"
+    },
+    {
+      "identifier": "UDPipe",
+      "version": "2",
+      "from": "2021-09-23T22:22:00",
+      "to": "2021-09-23T22:23:00",
+      "label": "UDPipe, model: czech-pdt-ud-2.6-200830"
+    }
+  ]
+}

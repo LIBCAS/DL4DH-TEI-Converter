@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<teiHeader corresp="https://dnnt.mzk.cz/view/uuid:319546a0-5a42-11eb-b4d1-005056827e51 https://dnnt.mzk.cz/search/api/v5.0/item/uuid:319546a0-5a42-11eb-b4d1-005056827e51/">
+  <fileDesc>
+    <titleStmt>
+      <title>Protokol ... veřejné schůze bratrstva sv. Michala v Praze dne</title>
+      <author>
+        <orgName>Bratrstvo sv. Michala</orgName>
+        <idno type="mods:nameIdentifier">kn20050602019</idno>
+      </author>
+    </titleStmt>
+    <extent>^^^sv. ; 23 cm</extent>
+    <publicationStmt>
+      <publisher>Bratrstvo sv. Michala</publisher>
+      <pubPlace>V Praze</pubPlace>
+      <date>[1878]-[1918]</date>
+      <idno type="mods:barCode">1004407716</idno>
+      <idno type="mods:uuid">319546a0-5a42-11eb-b4d1-005056827e51</idno>
+      <idno type="mods:ccnb">cnb000964752</idno>
+      <idno type="mods:ccnb">cnb001503907</idno>
+      <idno type="mods:oclc">85591009</idno>
+      <idno type="mods:oclc">85001648</idno>
+      <availability>
+        <licence resp="#NameTag">CC BY-NC-SA</licence>
+      </availability>
+      <availability>
+        <licence resp="#UDPipe">CC BY-NC-SA</licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl/>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <appInfo>
+      <application xml:id="NameTag" ident="NameTag" version="2" from="2021-09-23T22:20:00" to="2021-09-23T22:21:00">
+        <label>NameTag, model: czech-cnec2.0-200831</label>
+      </application>
+    </appInfo>
+    <appInfo>
+      <application xml:id="UDPipe" ident="UDPipe" version="2" from="2021-09-23T22:22:00" to="2021-09-23T22:23:00">
+        <label>UDPipe, model: czech-pdt-ud-2.6-200830</label>
+      </application>
+    </appInfo>
+    <appInfo>
+      <application xml:id="TEIConverter" ident="TEIConverter" version="0.6" when="2021-10-14T09:52:36">
+        <label/>
+      </application>
+    </appInfo>
+  </encodingDesc>
+  <profileDesc>
+    <textClass>
+      <classCode scheme="https://ufal.mff.cuni.cz/nametag/2/models">
+        <interpGrp>
+          <interp xml:id="nametag-a">ČÍSLA JAKO SOUČÁSTI ADRES</interp>
+          <interp xml:id="nametag-ah">číslo popisné</interp>
+          <interp xml:id="nametag-at">telefon, fax</interp>
+          <interp xml:id="nametag-az">PSČ</interp>
+          <interp xml:id="nametag-g">GEOGRAFICKÉ NÁZVY</interp>
+          <interp xml:id="nametag-gc">státní útvary</interp>
+          <interp xml:id="nametag-gh">vodní útvary</interp>
+          <interp xml:id="nametag-gl">přírodní oblasti / útvary</interp>
+          <interp xml:id="nametag-gq">části obcí, pomístní názvy</interp>
+          <interp xml:id="nametag-gr">menší územní jednotky</interp>
+          <interp xml:id="nametag-gs">ulice, náměstí</interp>
+          <interp xml:id="nametag-gt">kontinenty</interp>
+          <interp xml:id="nametag-gu">obce, hrady a zámky</interp>
+          <interp xml:id="nametag-g_">geografický název nespecifikovaného typu / nezařaditelný do ostatních typů</interp>
+          <interp xml:id="nametag-i">NÁZVY INSTITUCÍ</interp>
+          <interp xml:id="nametag-ia">přednášky, konference, soutěže,...</interp>
+          <interp xml:id="nametag-ic">kulturní, vzdělávací a vědecké instituce, sportovní kluby,...</interp>
+          <interp xml:id="nametag-if">firmy, koncerny, hotely,...</interp>
+          <interp xml:id="nametag-io">státní a mezinárodní instituce, politické strany a hnutí, náboženské skupiny</interp>
+          <interp xml:id="nametag-i_">instituce nespecifikovaného typu / nezařaditelné do ostatních typů</interp>
+          <interp xml:id="nametag-m">NÁZVY MÉDIÍ</interp>
+          <interp xml:id="nametag-me">e-mailové adresy</interp>
+          <interp xml:id="nametag-mi">internetové odkazy</interp>
+          <interp xml:id="nametag-mn">periodika, redakce, tiskové agentury</interp>
+          <interp xml:id="nametag-ms">rozhlasové a televizní stanice</interp>
+          <interp xml:id="nametag-n">ČÍSLA SE SPECIFICKÝM VÝZNAMEM</interp>
+          <interp xml:id="nametag-na">věk</interp>
+          <interp xml:id="nametag-nc">číslo s významem počtu</interp>
+          <interp xml:id="nametag-nb">číslo strany, kapitoly, oddílu, obrázku</interp>
+          <interp xml:id="nametag-no">číslo s významem pořadí</interp>
+          <interp xml:id="nametag-ns">sportovní skóre</interp>
+          <interp xml:id="nametag-ni">itemizátor</interp>
+          <interp xml:id="nametag-n_">číslo se specifickým významem, jehož typ nebyl vyčleněn jako samostatný / nelze identifikovat</interp>
+          <interp xml:id="nametag-o">NÁZVY VĚCÍ</interp>
+          <interp xml:id="nametag-oa">kulturní artefakty (knihy, filmy stavby,...)</interp>
+          <interp xml:id="nametag-oe">měrné jednotky (zapsané zkratkou)</interp>
+          <interp xml:id="nametag-om">měny (zapsané zkratkou, symbolem)</interp>
+          <interp xml:id="nametag-op">výrobky</interp>
+          <interp xml:id="nametag-or">předpisy, normy,..., jejich sbírky</interp>
+          <interp xml:id="nametag-o_">názvy nespecifikovaného typu / nezařaditelné do ostatních typů</interp>
+          <interp xml:id="nametag-p">JMÉNA OSOB</interp>
+          <interp xml:id="nametag-pc">obyvatelská jména</interp>
+          <interp xml:id="nametag-pd">titul (pouze zkratkou)</interp>
+          <interp xml:id="nametag-pf">křestní jméno</interp>
+          <interp xml:id="nametag-pm">druhé křestní jméno</interp>
+          <interp xml:id="nametag-pp">náboženské postavy, pohádkové a mytické postavy, personifikované vlastnosti</interp>
+          <interp xml:id="nametag-ps">příjmení</interp>
+          <interp xml:id="nametag-p_">jméno osoby nespecifikovaného typu / nezařaditelné do ostatních typů</interp>
+          <interp xml:id="nametag-t">ČASOVÉ ÚDAJE</interp>
+          <interp xml:id="nametag-td">den</interp>
+          <interp xml:id="nametag-tf">svátky a významné dny</interp>
+          <interp xml:id="nametag-th">hodina</interp>
+          <interp xml:id="nametag-tm">měsíc</interp>
+          <interp xml:id="nametag-ty">rok</interp>
+        </interpGrp>
+      </classCode>
+    </textClass>
+    <langUsage>
+      <language ident="cze">cze</language>
+    </langUsage>
+  </profileDesc>
+</teiHeader>

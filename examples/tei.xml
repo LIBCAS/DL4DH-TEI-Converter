@@ -1,0 +1,1014 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" corresp="https://dnnt.mzk.cz/view/uuid:319546a0-5a42-11eb-b4d1-005056827e51 https://dnnt.mzk.cz/search/api/v5.0/item/uuid:319546a0-5a42-11eb-b4d1-005056827e51/">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Protokol ... veřejné schůze bratrstva sv. Michala v Praze dne</title>
+        <author>
+          <orgName>Bratrstvo sv. Michala</orgName>
+          <idno type="mods:nameIdentifier">kn20050602019</idno>
+        </author>
+      </titleStmt>
+      <extent>^^^sv. ; 23 cm</extent>
+      <publicationStmt>
+        <publisher>Bratrstvo sv. Michala</publisher>
+        <pubPlace>V Praze</pubPlace>
+        <date>[1878]-[1918]</date>
+        <idno type="mods:barCode">1004407716</idno>
+        <idno type="mods:uuid">319546a0-5a42-11eb-b4d1-005056827e51</idno>
+        <idno type="mods:ccnb">cnb000964752</idno>
+        <idno type="mods:ccnb">cnb001503907</idno>
+        <idno type="mods:oclc">85591009</idno>
+        <idno type="mods:oclc">85001648</idno>
+        <availability>
+          <licence resp="#NameTag">CC BY-NC-SA</licence>
+        </availability>
+        <availability>
+          <licence resp="#UDPipe">CC BY-NC-SA</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application xml:id="NameTag" ident="NameTag" version="2" from="2021-09-23T22:20:00" to="2021-09-23T22:21:00">
+          <label>NameTag, model: czech-cnec2.0-200831</label>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application xml:id="UDPipe" ident="UDPipe" version="2" from="2021-09-23T22:22:00" to="2021-09-23T22:23:00">
+          <label>UDPipe, model: czech-pdt-ud-2.6-200830</label>
+        </application>
+      </appInfo>
+      <appInfo>
+        <application xml:id="TEIConverter" ident="TEIConverter" version="0.6" when="2021-10-14T09:52:36">
+          <label/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="https://ufal.mff.cuni.cz/nametag/2/models">
+          <interpGrp>
+            <interp xml:id="nametag-a">ČÍSLA JAKO SOUČÁSTI ADRES</interp>
+            <interp xml:id="nametag-ah">číslo popisné</interp>
+            <interp xml:id="nametag-at">telefon, fax</interp>
+            <interp xml:id="nametag-az">PSČ</interp>
+            <interp xml:id="nametag-g">GEOGRAFICKÉ NÁZVY</interp>
+            <interp xml:id="nametag-gc">státní útvary</interp>
+            <interp xml:id="nametag-gh">vodní útvary</interp>
+            <interp xml:id="nametag-gl">přírodní oblasti / útvary</interp>
+            <interp xml:id="nametag-gq">části obcí, pomístní názvy</interp>
+            <interp xml:id="nametag-gr">menší územní jednotky</interp>
+            <interp xml:id="nametag-gs">ulice, náměstí</interp>
+            <interp xml:id="nametag-gt">kontinenty</interp>
+            <interp xml:id="nametag-gu">obce, hrady a zámky</interp>
+            <interp xml:id="nametag-g_">geografický název nespecifikovaného typu / nezařaditelný do ostatních typů</interp>
+            <interp xml:id="nametag-i">NÁZVY INSTITUCÍ</interp>
+            <interp xml:id="nametag-ia">přednášky, konference, soutěže,...</interp>
+            <interp xml:id="nametag-ic">kulturní, vzdělávací a vědecké instituce, sportovní kluby,...</interp>
+            <interp xml:id="nametag-if">firmy, koncerny, hotely,...</interp>
+            <interp xml:id="nametag-io">státní a mezinárodní instituce, politické strany a hnutí, náboženské skupiny</interp>
+            <interp xml:id="nametag-i_">instituce nespecifikovaného typu / nezařaditelné do ostatních typů</interp>
+            <interp xml:id="nametag-m">NÁZVY MÉDIÍ</interp>
+            <interp xml:id="nametag-me">e-mailové adresy</interp>
+            <interp xml:id="nametag-mi">internetové odkazy</interp>
+            <interp xml:id="nametag-mn">periodika, redakce, tiskové agentury</interp>
+            <interp xml:id="nametag-ms">rozhlasové a televizní stanice</interp>
+            <interp xml:id="nametag-n">ČÍSLA SE SPECIFICKÝM VÝZNAMEM</interp>
+            <interp xml:id="nametag-na">věk</interp>
+            <interp xml:id="nametag-nc">číslo s významem počtu</interp>
+            <interp xml:id="nametag-nb">číslo strany, kapitoly, oddílu, obrázku</interp>
+            <interp xml:id="nametag-no">číslo s významem pořadí</interp>
+            <interp xml:id="nametag-ns">sportovní skóre</interp>
+            <interp xml:id="nametag-ni">itemizátor</interp>
+            <interp xml:id="nametag-n_">číslo se specifickým významem, jehož typ nebyl vyčleněn jako samostatný / nelze identifikovat</interp>
+            <interp xml:id="nametag-o">NÁZVY VĚCÍ</interp>
+            <interp xml:id="nametag-oa">kulturní artefakty (knihy, filmy stavby,...)</interp>
+            <interp xml:id="nametag-oe">měrné jednotky (zapsané zkratkou)</interp>
+            <interp xml:id="nametag-om">měny (zapsané zkratkou, symbolem)</interp>
+            <interp xml:id="nametag-op">výrobky</interp>
+            <interp xml:id="nametag-or">předpisy, normy,..., jejich sbírky</interp>
+            <interp xml:id="nametag-o_">názvy nespecifikovaného typu / nezařaditelné do ostatních typů</interp>
+            <interp xml:id="nametag-p">JMÉNA OSOB</interp>
+            <interp xml:id="nametag-pc">obyvatelská jména</interp>
+            <interp xml:id="nametag-pd">titul (pouze zkratkou)</interp>
+            <interp xml:id="nametag-pf">křestní jméno</interp>
+            <interp xml:id="nametag-pm">druhé křestní jméno</interp>
+            <interp xml:id="nametag-pp">náboženské postavy, pohádkové a mytické postavy, personifikované vlastnosti</interp>
+            <interp xml:id="nametag-ps">příjmení</interp>
+            <interp xml:id="nametag-p_">jméno osoby nespecifikovaného typu / nezařaditelné do ostatních typů</interp>
+            <interp xml:id="nametag-t">ČASOVÉ ÚDAJE</interp>
+            <interp xml:id="nametag-td">den</interp>
+            <interp xml:id="nametag-tf">svátky a významné dny</interp>
+            <interp xml:id="nametag-th">hodina</interp>
+            <interp xml:id="nametag-tm">měsíc</interp>
+            <interp xml:id="nametag-ty">rok</interp>
+          </interpGrp>
+        </classCode>
+      </textClass>
+      <langUsage>
+        <language ident="cze">cze</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface start="#uuid-189d4d39-8862-4bb8-9e51-b7d914a4087a">
+      <zone start="#W-1" ulx="305.0" uly="954.0" lrx="541.0" lry="999.0"/>
+      <zone start="#W-2" ulx="587.0" uly="955.0" lrx="714.0" lry="999.0"/>
+      <zone start="#W-3" ulx="759.0" uly="956.0" lrx="968.0" lry="999.0"/>
+      <zone start="#W-4" ulx="1010.0" uly="957.0" lrx="1237.0" lry="1000.0"/>
+      <zone start="#W-5" ulx="1270.0" uly="968.0" lrx="1335.0" lry="999.0"/>
+      <zone start="#W-6" ulx="1369.0" uly="955.0" lrx="1587.0" lry="999.0"/>
+      <zone start="#W-7" ulx="1622.0" uly="968.0" lrx="1701.0" lry="1011.0"/>
+      <zone start="#W-8" ulx="1734.0" uly="955.0" lrx="1816.0" lry="999.0"/>
+      <zone start="#W-9" ulx="361.0" uly="1005.0" lrx="519.0" lry="1066.0"/>
+      <zone start="#W-10" ulx="553.0" uly="1015.0" lrx="725.0" lry="1057.0"/>
+      <zone start="#W-11" ulx="757.0" uly="1016.0" lrx="857.0" lry="1069.0"/>
+      <zone start="#W-12" ulx="890.0" uly="1015.0" lrx="974.0" lry="1057.0"/>
+      <zone start="#W-13" ulx="1009.0" uly="1016.0" lrx="1076.0" lry="1057.0"/>
+      <zone start="#W-14" ulx="1120.0" uly="1014.0" lrx="1267.0" lry="1057.0"/>
+      <zone start="#W-15" ulx="1314.0" uly="1014.0" lrx="1424.0" lry="1057.0"/>
+      <zone start="#W-16" ulx="1458.0" uly="1026.0" lrx="1510.0" lry="1056.0"/>
+      <zone start="#W-17" ulx="1542.0" uly="1015.0" lrx="1710.0" lry="1058.0"/>
+      <zone start="#W-18" ulx="1744.0" uly="1015.0" lrx="1837.0" lry="1057.0"/>
+      <zone start="#W-19" ulx="165.0" uly="1072.0" lrx="400.0" lry="1116.0"/>
+      <zone start="#W-20" ulx="431.0" uly="1087.0" lrx="456.0" lry="1115.0"/>
+      <zone start="#W-21" ulx="479.0" uly="1073.0" lrx="569.0" lry="1117.0"/>
+      <zone start="#W-22" ulx="592.0" uly="1073.0" lrx="819.0" lry="1116.0"/>
+      <zone start="#W-23" ulx="844.0" uly="1074.0" lrx="869.0" lry="1114.0"/>
+      <zone start="#W-24" ulx="894.0" uly="1073.0" lrx="1253.0" lry="1116.0"/>
+      <zone start="#W-25" ulx="1283.0" uly="1073.0" lrx="1455.0" lry="1126.0"/>
+      <zone start="#W-26" ulx="1480.0" uly="1073.0" lrx="1836.0" lry="1116.0"/>
+      <zone start="#W-27" ulx="165.0" uly="1131.0" lrx="277.0" lry="1174.0"/>
+      <zone start="#W-28" ulx="311.0" uly="1131.0" lrx="505.0" lry="1174.0"/>
+      <zone start="#W-29" ulx="529.0" uly="1133.0" lrx="692.0" lry="1185.0"/>
+      <zone start="#W-30" ulx="725.0" uly="1131.0" lrx="814.0" lry="1174.0"/>
+      <zone start="#W-31" ulx="844.0" uly="1131.0" lrx="978.0" lry="1186.0"/>
+      <zone start="#W-32" ulx="1007.0" uly="1132.0" lrx="1139.0" lry="1185.0"/>
+      <zone start="#W-33" ulx="1173.0" uly="1131.0" lrx="1188.0" lry="1174.0"/>
+      <zone start="#W-34" ulx="1219.0" uly="1130.0" lrx="1248.0" lry="1173.0"/>
+      <zone start="#W-35" ulx="1271.0" uly="1131.0" lrx="1640.0" lry="1185.0"/>
+      <zone start="#W-36" ulx="1660.0" uly="1132.0" lrx="1835.0" lry="1185.0"/>
+      <zone start="#W-37" ulx="166.0" uly="1189.0" lrx="513.0" lry="1244.0"/>
+      <zone start="#W-38" ulx="536.0" uly="1189.0" lrx="649.0" lry="1232.0"/>
+      <zone start="#W-39" ulx="683.0" uly="1189.0" lrx="964.0" lry="1233.0"/>
+      <zone start="#W-40" ulx="987.0" uly="1190.0" lrx="1129.0" lry="1234.0"/>
+      <zone start="#W-41" ulx="1162.0" uly="1203.0" lrx="1187.0" lry="1232.0"/>
+      <zone start="#W-42" ulx="1210.0" uly="1190.0" lrx="1332.0" lry="1232.0"/>
+      <zone start="#W-43" ulx="1356.0" uly="1189.0" lrx="1591.0" lry="1233.0"/>
+      <zone start="#W-44" ulx="1622.0" uly="1188.0" lrx="1774.0" lry="1233.0"/>
+      <zone start="#W-45" ulx="1799.0" uly="1189.0" lrx="1832.0" lry="1232.0"/>
+      <zone start="#W-46" ulx="166.0" uly="1248.0" lrx="405.0" lry="1302.0"/>
+      <zone start="#W-47" ulx="438.0" uly="1248.0" lrx="576.0" lry="1291.0"/>
+      <zone start="#W-48" ulx="607.0" uly="1249.0" lrx="896.0" lry="1291.0"/>
+      <zone start="#W-49" ulx="930.0" uly="1262.0" lrx="955.0" lry="1290.0"/>
+      <zone start="#W-50" ulx="986.0" uly="1247.0" lrx="1351.0" lry="1291.0"/>
+      <zone start="#W-51" ulx="306.0" uly="1306.0" lrx="482.0" lry="1349.0"/>
+      <zone start="#W-52" ulx="515.0" uly="1307.0" lrx="820.0" lry="1350.0"/>
+      <zone start="#W-53" ulx="853.0" uly="1307.0" lrx="1009.0" lry="1349.0"/>
+      <zone start="#W-54" ulx="1044.0" uly="1305.0" lrx="1368.0" lry="1356.0"/>
+      <zone start="#W-55" ulx="1409.0" uly="1306.0" lrx="1555.0" lry="1361.0"/>
+      <zone start="#W-56" ulx="1590.0" uly="1305.0" lrx="1836.0" lry="1349.0"/>
+      <zone start="#W-57" ulx="168.0" uly="1365.0" lrx="293.0" lry="1408.0"/>
+      <zone start="#W-58" ulx="329.0" uly="1365.0" lrx="489.0" lry="1407.0"/>
+      <zone start="#W-59" ulx="521.0" uly="1367.0" lrx="786.0" lry="1418.0"/>
+      <zone start="#W-60" ulx="815.0" uly="1365.0" lrx="927.0" lry="1408.0"/>
+      <zone start="#W-61" ulx="960.0" uly="1365.0" lrx="1190.0" lry="1408.0"/>
+      <zone start="#W-62" ulx="1225.0" uly="1365.0" lrx="1414.0" lry="1418.0"/>
+      <zone start="#W-63" ulx="1454.0" uly="1378.0" lrx="1567.0" lry="1418.0"/>
+      <zone start="#W-64" ulx="1610.0" uly="1365.0" lrx="1839.0" lry="1408.0"/>
+      <zone start="#W-65" ulx="168.0" uly="1423.0" lrx="648.0" lry="1477.0"/>
+      <zone start="#W-66" ulx="168.0" uly="1423.0" lrx="648.0" lry="1477.0"/>
+      <zone start="#W-67" ulx="695.0" uly="1423.0" lrx="931.0" lry="1466.0"/>
+      <zone start="#W-68" ulx="970.0" uly="1424.0" lrx="1024.0" lry="1466.0"/>
+      <zone start="#W-69" ulx="1058.0" uly="1423.0" lrx="1194.0" lry="1466.0"/>
+      <zone start="#W-70" ulx="1236.0" uly="1423.0" lrx="1418.0" lry="1467.0"/>
+      <zone start="#W-71" ulx="1453.0" uly="1436.0" lrx="1500.0" lry="1466.0"/>
+      <zone start="#W-72" ulx="1534.0" uly="1423.0" lrx="1837.0" lry="1474.0"/>
+      <zone start="#W-73" ulx="167.0" uly="1496.0" lrx="191.0" lry="1524.0"/>
+      <zone start="#W-74" ulx="233.0" uly="1482.0" lrx="412.0" lry="1524.0"/>
+      <zone start="#W-75" ulx="444.0" uly="1485.0" lrx="714.0" lry="1535.0"/>
+      <zone start="#W-76" ulx="747.0" uly="1482.0" lrx="914.0" lry="1536.0"/>
+      <zone start="#W-77" ulx="951.0" uly="1482.0" lrx="1134.0" lry="1533.0"/>
+      <zone start="#W-78" ulx="1181.0" uly="1482.0" lrx="1249.0" lry="1533.0"/>
+      <zone start="#W-79" ulx="1285.0" uly="1494.0" lrx="1308.0" lry="1523.0"/>
+      <zone start="#W-80" ulx="1341.0" uly="1482.0" lrx="1522.0" lry="1524.0"/>
+      <zone start="#W-81" ulx="1568.0" uly="1482.0" lrx="1732.0" lry="1525.0"/>
+      <zone start="#W-82" ulx="1766.0" uly="1482.0" lrx="1823.0" lry="1525.0"/>
+      <zone start="#W-83" ulx="372.0" uly="1540.0" lrx="531.0" lry="1583.0"/>
+      <zone start="#W-84" ulx="563.0" uly="1540.0" lrx="664.0" lry="1594.0"/>
+      <zone start="#W-85" ulx="696.0" uly="1540.0" lrx="820.0" lry="1583.0"/>
+      <zone start="#W-86" ulx="852.0" uly="1541.0" lrx="1114.0" lry="1583.0"/>
+      <zone start="#W-87" ulx="1149.0" uly="1553.0" lrx="1173.0" lry="1581.0"/>
+      <zone start="#W-88" ulx="1207.0" uly="1539.0" lrx="1413.0" lry="1582.0"/>
+      <zone start="#W-89" ulx="1449.0" uly="1540.0" lrx="1646.0" lry="1594.0"/>
+      <zone start="#W-90" ulx="1679.0" uly="1539.0" lrx="1822.0" lry="1582.0"/>
+      <zone start="#W-91" ulx="397.0" uly="1599.0" lrx="531.0" lry="1641.0"/>
+      <zone start="#W-92" ulx="578.0" uly="1602.0" lrx="738.0" lry="1649.0"/>
+      <zone start="#W-93" ulx="773.0" uly="1598.0" lrx="996.0" lry="1654.0"/>
+      <zone start="#W-94" ulx="1031.0" uly="1599.0" lrx="1046.0" lry="1641.0"/>
+      <zone start="#W-95" ulx="1079.0" uly="1598.0" lrx="1309.0" lry="1649.0"/>
+      <zone start="#W-96" ulx="1348.0" uly="1598.0" lrx="1478.0" lry="1653.0"/>
+      <zone start="#W-97" ulx="1511.0" uly="1600.0" lrx="1524.0" lry="1641.0"/>
+      <zone start="#W-98" ulx="1558.0" uly="1599.0" lrx="1839.0" lry="1653.0"/>
+      <zone start="#W-99" ulx="168.0" uly="1657.0" lrx="300.0" lry="1701.0"/>
+      <zone start="#W-100" ulx="334.0" uly="1657.0" lrx="612.0" lry="1712.0"/>
+      <zone start="#W-101" ulx="647.0" uly="1657.0" lrx="806.0" lry="1711.0"/>
+      <zone start="#W-102" ulx="840.0" uly="1657.0" lrx="1098.0" lry="1712.0"/>
+      <zone start="#W-103" ulx="308.0" uly="1716.0" lrx="548.0" lry="1770.0"/>
+      <zone start="#W-104" ulx="594.0" uly="1715.0" lrx="657.0" lry="1758.0"/>
+      <zone start="#W-105" ulx="707.0" uly="1714.0" lrx="940.0" lry="1759.0"/>
+      <zone start="#W-106" ulx="986.0" uly="1716.0" lrx="1212.0" lry="1771.0"/>
+      <zone start="#W-107" ulx="1260.0" uly="1714.0" lrx="1332.0" lry="1768.0"/>
+      <zone start="#W-108" ulx="1382.0" uly="1716.0" lrx="1550.0" lry="1757.0"/>
+      <zone start="#W-109" ulx="1599.0" uly="1715.0" lrx="1842.0" lry="1758.0"/>
+      <zone start="#W-110" ulx="168.0" uly="1788.0" lrx="193.0" lry="1818.0"/>
+      <zone start="#W-111" ulx="224.0" uly="1774.0" lrx="407.0" lry="1818.0"/>
+      <zone start="#W-112" ulx="439.0" uly="1787.0" lrx="464.0" lry="1816.0"/>
+      <zone start="#W-113" ulx="495.0" uly="1775.0" lrx="749.0" lry="1817.0"/>
+      <zone start="#W-114" ulx="782.0" uly="1774.0" lrx="996.0" lry="1817.0"/>
+      <zone start="#W-115" ulx="1051.0" uly="1773.0" lrx="1090.0" lry="1818.0"/>
+      <zone start="#W-116" ulx="1120.0" uly="1773.0" lrx="1209.0" lry="1826.0"/>
+      <zone start="#W-117" ulx="1243.0" uly="1773.0" lrx="1500.0" lry="1829.0"/>
+      <zone start="#W-118" ulx="1536.0" uly="1774.0" lrx="1687.0" lry="1816.0"/>
+      <zone start="#W-119" ulx="1718.0" uly="1774.0" lrx="1842.0" lry="1817.0"/>
+      <zone start="#W-120" ulx="170.0" uly="1845.0" lrx="217.0" lry="1876.0"/>
+      <zone start="#W-121" ulx="249.0" uly="1845.0" lrx="275.0" lry="1875.0"/>
+      <zone start="#W-122" ulx="298.0" uly="1833.0" lrx="390.0" lry="1876.0"/>
+      <zone start="#W-123" ulx="424.0" uly="1833.0" lrx="508.0" lry="1875.0"/>
+      <zone start="#W-124" ulx="540.0" uly="1832.0" lrx="720.0" lry="1886.0"/>
+      <zone start="#W-125" ulx="752.0" uly="1832.0" lrx="1025.0" lry="1875.0"/>
+      <zone start="#W-126" ulx="1057.0" uly="1832.0" lrx="1186.0" lry="1887.0"/>
+      <zone start="#W-127" ulx="1218.0" uly="1831.0" lrx="1349.0" lry="1874.0"/>
+      <zone start="#W-128" ulx="1380.0" uly="1831.0" lrx="1493.0" lry="1874.0"/>
+      <zone start="#W-129" ulx="1517.0" uly="1831.0" lrx="1728.0" lry="1886.0"/>
+      <zone start="#W-130" ulx="1754.0" uly="1832.0" lrx="1842.0" lry="1886.0"/>
+      <zone start="#W-131" ulx="169.0" uly="1893.0" lrx="283.0" lry="1934.0"/>
+      <zone start="#W-132" ulx="316.0" uly="1893.0" lrx="465.0" lry="1946.0"/>
+      <zone start="#W-133" ulx="496.0" uly="1890.0" lrx="609.0" lry="1933.0"/>
+      <zone start="#W-134" ulx="641.0" uly="1890.0" lrx="925.0" lry="1934.0"/>
+      <zone start="#W-135" ulx="956.0" uly="1893.0" lrx="1149.0" lry="1934.0"/>
+      <zone start="#W-136" ulx="1183.0" uly="1888.0" lrx="1379.0" lry="1945.0"/>
+      <zone start="#W-137" ulx="1414.0" uly="1890.0" lrx="1692.0" lry="1944.0"/>
+      <zone start="#W-138" ulx="310.0" uly="1950.0" lrx="391.0" lry="1992.0"/>
+      <zone start="#W-139" ulx="414.0" uly="1962.0" lrx="649.0" lry="2004.0"/>
+      <zone start="#W-140" ulx="671.0" uly="1949.0" lrx="853.0" lry="2004.0"/>
+      <zone start="#W-141" ulx="873.0" uly="1950.0" lrx="958.0" lry="1991.0"/>
+      <zone start="#W-142" ulx="982.0" uly="1950.0" lrx="1228.0" lry="1992.0"/>
+      <zone start="#W-143" ulx="1255.0" uly="1949.0" lrx="1411.0" lry="1991.0"/>
+      <zone start="#W-144" ulx="1436.0" uly="1948.0" lrx="1665.0" lry="2000.0"/>
+      <zone start="#W-145" ulx="1691.0" uly="1948.0" lrx="1841.0" lry="1992.0"/>
+      <zone start="#W-146" ulx="170.0" uly="2022.0" lrx="195.0" lry="2052.0"/>
+      <zone start="#W-147" ulx="229.0" uly="2007.0" lrx="266.0" lry="2052.0"/>
+      <zone start="#W-148" ulx="300.0" uly="2009.0" lrx="463.0" lry="2051.0"/>
+      <zone start="#W-149" ulx="486.0" uly="2007.0" lrx="615.0" lry="2051.0"/>
+      <zone start="#W-150" ulx="633.0" uly="2008.0" lrx="800.0" lry="2062.0"/>
+      <zone start="#W-151" ulx="833.0" uly="2007.0" lrx="947.0" lry="2051.0"/>
+      <zone start="#W-152" ulx="969.0" uly="2008.0" lrx="1165.0" lry="2061.0"/>
+      <zone start="#W-153" ulx="1197.0" uly="2007.0" lrx="1330.0" lry="2050.0"/>
+      <zone start="#W-154" ulx="1352.0" uly="2007.0" lrx="1474.0" lry="2061.0"/>
+      <zone start="#W-155" ulx="1498.0" uly="2020.0" lrx="1546.0" lry="2050.0"/>
+      <zone start="#W-156" ulx="1570.0" uly="2007.0" lrx="1842.0" lry="2051.0"/>
+      <zone start="#W-157" ulx="169.0" uly="2067.0" lrx="322.0" lry="2121.0"/>
+      <zone start="#W-158" ulx="366.0" uly="2066.0" lrx="470.0" lry="2121.0"/>
+      <zone start="#W-159" ulx="505.0" uly="2066.0" lrx="724.0" lry="2120.0"/>
+      <zone start="#W-160" ulx="765.0" uly="2066.0" lrx="1001.0" lry="2120.0"/>
+      <zone start="#W-161" ulx="1042.0" uly="2066.0" lrx="1208.0" lry="2121.0"/>
+      <zone start="#W-162" ulx="1257.0" uly="2063.0" lrx="1365.0" lry="2108.0"/>
+      <zone start="#W-163" ulx="1414.0" uly="2078.0" lrx="1491.0" lry="2119.0"/>
+      <zone start="#W-164" ulx="1525.0" uly="2078.0" lrx="1681.0" lry="2109.0"/>
+      <zone start="#W-165" ulx="1713.0" uly="2065.0" lrx="1818.0" lry="2109.0"/>
+      <zone start="#W-166" ulx="401.0" uly="2125.0" lrx="507.0" lry="2168.0"/>
+      <zone start="#W-167" ulx="541.0" uly="2124.0" lrx="678.0" lry="2167.0"/>
+      <zone start="#W-168" ulx="708.0" uly="2124.0" lrx="943.0" lry="2168.0"/>
+      <zone start="#W-169" ulx="976.0" uly="2137.0" lrx="1023.0" lry="2168.0"/>
+      <zone start="#W-170" ulx="1056.0" uly="2124.0" lrx="1248.0" lry="2175.0"/>
+      <zone start="#W-171" ulx="1298.0" uly="2125.0" lrx="1473.0" lry="2178.0"/>
+      <zone start="#W-172" ulx="1507.0" uly="2124.0" lrx="1842.0" lry="2178.0"/>
+      <zone start="#W-173" ulx="170.0" uly="2184.0" lrx="271.0" lry="2239.0"/>
+      <zone start="#W-174" ulx="303.0" uly="2184.0" lrx="416.0" lry="2227.0"/>
+      <zone start="#W-175" ulx="466.0" uly="2183.0" lrx="597.0" lry="2226.0"/>
+      <zone start="#W-176" ulx="648.0" uly="2183.0" lrx="773.0" lry="2226.0"/>
+      <zone start="#W-177" ulx="803.0" uly="2183.0" lrx="926.0" lry="2237.0"/>
+      <zone start="#W-178" ulx="960.0" uly="2183.0" lrx="1034.0" lry="2225.0"/>
+      <zone start="#W-179" ulx="1069.0" uly="2182.0" lrx="1214.0" lry="2225.0"/>
+      <zone start="#W-180" ulx="1256.0" uly="2181.0" lrx="1448.0" lry="2233.0"/>
+      <zone start="#W-181" ulx="1484.0" uly="2183.0" lrx="1841.0" lry="2236.0"/>
+      <zone start="#W-182" ulx="170.0" uly="2243.0" lrx="393.0" lry="2286.0"/>
+      <zone start="#W-183" ulx="437.0" uly="2256.0" lrx="460.0" lry="2284.0"/>
+      <zone start="#W-184" ulx="503.0" uly="2242.0" lrx="664.0" lry="2296.0"/>
+      <zone start="#W-185" ulx="708.0" uly="2254.0" lrx="762.0" lry="2296.0"/>
+      <zone start="#W-186" ulx="807.0" uly="2242.0" lrx="1021.0" lry="2295.0"/>
+      <zone start="#W-187" ulx="1064.0" uly="2241.0" lrx="1176.0" lry="2284.0"/>
+      <zone start="#W-188" ulx="1218.0" uly="2240.0" lrx="1451.0" lry="2284.0"/>
+      <zone start="#W-189" ulx="1496.0" uly="2241.0" lrx="1691.0" lry="2296.0"/>
+      <zone start="#W-190" ulx="1727.0" uly="2254.0" lrx="1841.0" lry="2296.0"/>
+      <zone start="#W-191" ulx="171.0" uly="2300.0" lrx="413.0" lry="2354.0"/>
+      <zone start="#W-192" ulx="442.0" uly="2301.0" lrx="541.0" lry="2353.0"/>
+      <zone start="#W-193" ulx="575.0" uly="2302.0" lrx="821.0" lry="2354.0"/>
+      <zone start="#W-194" ulx="851.0" uly="2313.0" lrx="901.0" lry="2343.0"/>
+      <zone start="#W-195" ulx="926.0" uly="2300.0" lrx="1106.0" lry="2342.0"/>
+      <zone start="#W-196" ulx="1138.0" uly="2300.0" lrx="1291.0" lry="2342.0"/>
+      <zone start="#W-197" ulx="1322.0" uly="2299.0" lrx="1408.0" lry="2353.0"/>
+      <zone start="#W-198" ulx="1444.0" uly="2300.0" lrx="1603.0" lry="2343.0"/>
+      <zone start="#W-199" ulx="1628.0" uly="2299.0" lrx="1844.0" lry="2343.0"/>
+      <zone start="#W-200" ulx="172.0" uly="2359.0" lrx="403.0" lry="2414.0"/>
+      <zone start="#W-201" ulx="436.0" uly="2359.0" lrx="743.0" lry="2414.0"/>
+      <zone start="#W-202" ulx="778.0" uly="2359.0" lrx="1055.0" lry="2412.0"/>
+      <zone start="#W-203" ulx="1087.0" uly="2370.0" lrx="1113.0" lry="2400.0"/>
+      <zone start="#W-204" ulx="1145.0" uly="2358.0" lrx="1403.0" lry="2412.0"/>
+      <zone start="#W-205" ulx="1457.0" uly="2357.0" lrx="1569.0" lry="2402.0"/>
+      <zone start="#W-206" ulx="1615.0" uly="2358.0" lrx="1846.0" lry="2401.0"/>
+      <zone start="#W-207" ulx="174.0" uly="2421.0" lrx="363.0" lry="2461.0"/>
+      <zone start="#W-208" ulx="397.0" uly="2431.0" lrx="445.0" lry="2460.0"/>
+      <zone start="#W-209" ulx="478.0" uly="2418.0" lrx="586.0" lry="2468.0"/>
+      <zone start="#W-210" ulx="634.0" uly="2418.0" lrx="800.0" lry="2461.0"/>
+      <zone start="#W-211" ulx="836.0" uly="2417.0" lrx="954.0" lry="2460.0"/>
+      <zone start="#W-212" ulx="998.0" uly="2417.0" lrx="1278.0" lry="2469.0"/>
+      <zone start="#W-213" ulx="1322.0" uly="2418.0" lrx="1489.0" lry="2459.0"/>
+      <zone start="#W-214" ulx="1541.0" uly="2418.0" lrx="1846.0" lry="2460.0"/>
+      <zone start="#W-215" ulx="176.0" uly="2477.0" lrx="394.0" lry="2529.0"/>
+      <zone start="#W-216" ulx="441.0" uly="2476.0" lrx="683.0" lry="2530.0"/>
+      <zone start="#W-217" ulx="729.0" uly="2477.0" lrx="938.0" lry="2531.0"/>
+      <zone start="#W-218" ulx="971.0" uly="2476.0" lrx="1137.0" lry="2519.0"/>
+      <zone start="#W-219" ulx="1180.0" uly="2489.0" lrx="1205.0" lry="2518.0"/>
+      <zone start="#W-220" ulx="1254.0" uly="2475.0" lrx="1343.0" lry="2518.0"/>
+      <zone start="#W-221" ulx="1392.0" uly="2476.0" lrx="1522.0" lry="2529.0"/>
+      <zone start="#W-222" ulx="1570.0" uly="2476.0" lrx="1847.0" lry="2530.0"/>
+      <zone start="#W-223" ulx="173.0" uly="2535.0" lrx="297.0" lry="2589.0"/>
+      <zone start="#W-224" ulx="330.0" uly="2535.0" lrx="436.0" lry="2578.0"/>
+      <zone start="#W-225" ulx="470.0" uly="2534.0" lrx="632.0" lry="2577.0"/>
+      <zone start="#W-226" ulx="655.0" uly="2548.0" lrx="704.0" lry="2577.0"/>
+      <zone start="#W-227" ulx="726.0" uly="2535.0" lrx="1040.0" lry="2587.0"/>
+      <zone start="#W-228" ulx="1063.0" uly="2534.0" lrx="1211.0" lry="2577.0"/>
+      <zone start="#W-229" ulx="1235.0" uly="2533.0" lrx="1413.0" lry="2576.0"/>
+      <zone start="#W-230" ulx="1444.0" uly="2547.0" lrx="1495.0" lry="2576.0"/>
+      <zone start="#W-231" ulx="1526.0" uly="2533.0" lrx="1844.0" lry="2589.0"/>
+      <zone start="#W-232" ulx="174.0" uly="2607.0" lrx="199.0" lry="2636.0"/>
+      <zone start="#W-233" ulx="230.0" uly="2593.0" lrx="353.0" lry="2647.0"/>
+      <zone start="#W-234" ulx="387.0" uly="2593.0" lrx="489.0" lry="2637.0"/>
+      <zone start="#W-235" ulx="523.0" uly="2593.0" lrx="669.0" lry="2636.0"/>
+      <zone start="#W-236" ulx="702.0" uly="2593.0" lrx="754.0" lry="2637.0"/>
+      <zone start="#W-237" ulx="788.0" uly="2592.0" lrx="1047.0" lry="2648.0"/>
+      <zone start="#W-238" ulx="1100.0" uly="2592.0" lrx="1364.0" lry="2645.0"/>
+      <zone start="#W-239" ulx="1395.0" uly="2606.0" lrx="1421.0" lry="2635.0"/>
+      <zone start="#W-240" ulx="1464.0" uly="2605.0" lrx="1498.0" lry="2635.0"/>
+      <zone start="#W-241" ulx="1530.0" uly="2593.0" lrx="1572.0" lry="2635.0"/>
+      <zone start="#W-242" ulx="1616.0" uly="2593.0" lrx="1846.0" lry="2647.0"/>
+      <zone start="#W-243" ulx="173.0" uly="2653.0" lrx="305.0" lry="2697.0"/>
+      <zone start="#W-244" ulx="348.0" uly="2652.0" lrx="593.0" lry="2706.0"/>
+      <zone start="#W-245" ulx="626.0" uly="2652.0" lrx="759.0" lry="2695.0"/>
+      <zone start="#W-246" ulx="781.0" uly="2651.0" lrx="1115.0" lry="2695.0"/>
+      <zone start="#W-247" ulx="1146.0" uly="2664.0" lrx="1196.0" lry="2693.0"/>
+      <zone start="#W-248" ulx="1239.0" uly="2648.0" lrx="1616.0" lry="2695.0"/>
+      <zone start="#W-249" ulx="314.0" uly="2710.0" lrx="372.0" lry="2753.0"/>
+      <zone start="#W-250" ulx="420.0" uly="2711.0" lrx="464.0" lry="2755.0"/>
+      <zone start="#W-251" ulx="511.0" uly="2711.0" lrx="640.0" lry="2754.0"/>
+      <zone start="#W-252" ulx="683.0" uly="2723.0" lrx="768.0" lry="2764.0"/>
+      <zone start="#W-253" ulx="816.0" uly="2710.0" lrx="1036.0" lry="2764.0"/>
+      <zone start="#W-254" ulx="1068.0" uly="2709.0" lrx="1206.0" lry="2753.0"/>
+      <zone start="#W-255" ulx="1251.0" uly="2709.0" lrx="1496.0" lry="2763.0"/>
+      <zone start="#W-256" ulx="1529.0" uly="2724.0" lrx="1550.0" lry="2753.0"/>
+      <zone start="#W-257" ulx="1584.0" uly="2701.0" lrx="1723.0" lry="2759.0"/>
+      <zone start="#W-258" ulx="1774.0" uly="2710.0" lrx="1845.0" lry="2753.0"/>
+      <zone start="#W-259" ulx="174.0" uly="2769.0" lrx="313.0" lry="2812.0"/>
+      <zone start="#W-260" ulx="342.0" uly="2769.0" lrx="434.0" lry="2824.0"/>
+      <zone start="#W-261" ulx="465.0" uly="2770.0" lrx="578.0" lry="2813.0"/>
+      <zone start="#W-262" ulx="611.0" uly="2769.0" lrx="841.0" lry="2812.0"/>
+      <zone start="#W-263" ulx="875.0" uly="2769.0" lrx="1199.0" lry="2823.0"/>
+      <zone start="#W-264" ulx="1233.0" uly="2768.0" lrx="1391.0" lry="2811.0"/>
+      <zone start="#W-265" ulx="1425.0" uly="2769.0" lrx="1689.0" lry="2824.0"/>
+      <zone start="#W-266" ulx="1734.0" uly="2782.0" lrx="1817.0" lry="2822.0"/>
+      <zone start="#W-267" ulx="380.0" uly="2828.0" lrx="622.0" lry="2881.0"/>
+      <zone start="#W-268" ulx="684.0" uly="2828.0" lrx="896.0" lry="2882.0"/>
+      <zone start="#W-269" ulx="929.0" uly="2829.0" lrx="998.0" lry="2870.0"/>
+      <zone start="#W-270" ulx="318.0" uly="2885.0" lrx="486.0" lry="2941.0"/>
+      <zone start="#W-271" ulx="509.0" uly="2887.0" lrx="599.0" lry="2930.0"/>
+      <zone start="#W-272" ulx="632.0" uly="2886.0" lrx="750.0" lry="2930.0"/>
+      <zone start="#W-273" ulx="783.0" uly="2886.0" lrx="963.0" lry="2941.0"/>
+      <zone start="#W-274" ulx="995.0" uly="2885.0" lrx="1100.0" lry="2929.0"/>
+      <zone start="#W-275" ulx="1122.0" uly="2885.0" lrx="1351.0" lry="2929.0"/>
+      <zone start="#W-276" ulx="1385.0" uly="2886.0" lrx="1520.0" lry="2940.0"/>
+      <zone start="#W-277" ulx="1553.0" uly="2897.0" lrx="1663.0" lry="2937.0"/>
+      <zone start="#W-278" ulx="1688.0" uly="2885.0" lrx="1846.0" lry="2928.0"/>
+      <zone start="#W-279" ulx="174.0" uly="2945.0" lrx="432.0" lry="2997.0"/>
+      <zone start="#W-280" ulx="480.0" uly="2945.0" lrx="724.0" lry="3000.0"/>
+      <zone start="#W-281" ulx="767.0" uly="2945.0" lrx="993.0" lry="2988.0"/>
+      <zone start="#W-282" ulx="1037.0" uly="2957.0" lrx="1099.0" lry="2988.0"/>
+      <zone start="#W-283" ulx="1133.0" uly="2944.0" lrx="1365.0" lry="2997.0"/>
+      <zone start="#W-284" ulx="1404.0" uly="2944.0" lrx="1536.0" lry="2999.0"/>
+      <zone start="#W-285" ulx="1580.0" uly="2944.0" lrx="1593.0" lry="2986.0"/>
+      <zone start="#W-286" ulx="1627.0" uly="2945.0" lrx="1746.0" lry="2987.0"/>
+      <zone start="#W-287" ulx="1781.0" uly="2943.0" lrx="1849.0" lry="2997.0"/>
+      <zone start="#W-288" ulx="176.0" uly="3003.0" lrx="327.0" lry="3048.0"/>
+      <zone start="#W-289" ulx="360.0" uly="3004.0" lrx="511.0" lry="3048.0"/>
+      <zone start="#W-290" ulx="546.0" uly="3005.0" lrx="851.0" lry="3061.0"/>
+      <zone start="#W-291" ulx="1270.0" uly="968.0" lrx="1335.0" lry="999.0"/>
+      <zone start="#W-292" ulx="361.0" uly="1005.0" lrx="519.0" lry="1066.0"/>
+      <zone start="#W-293" ulx="1009.0" uly="1016.0" lrx="1076.0" lry="1057.0"/>
+      <zone start="#W-294" ulx="844.0" uly="1131.0" lrx="978.0" lry="1186.0"/>
+      <zone start="#W-295" ulx="1799.0" uly="1189.0" lrx="1832.0" lry="1232.0"/>
+      <zone start="#W-296" ulx="986.0" uly="1247.0" lrx="1351.0" lry="1291.0"/>
+      <zone start="#W-297" ulx="1384.0" uly="1273.0" lrx="1441.0" lry="1279.0"/>
+      <zone start="#W-298" ulx="1044.0" uly="1305.0" lrx="1368.0" lry="1356.0"/>
+      <zone start="#W-299" ulx="1225.0" uly="1365.0" lrx="1414.0" lry="1418.0"/>
+      <zone start="#W-300" ulx="168.0" uly="1423.0" lrx="648.0" lry="1477.0"/>
+      <zone start="#W-301" ulx="1534.0" uly="1423.0" lrx="1837.0" lry="1474.0"/>
+      <zone start="#W-302" ulx="951.0" uly="1482.0" lrx="1134.0" lry="1533.0"/>
+      <zone start="#W-303" ulx="1766.0" uly="1482.0" lrx="1823.0" lry="1525.0"/>
+      <zone start="#W-304" ulx="578.0" uly="1602.0" lrx="738.0" lry="1649.0"/>
+      <zone start="#W-305" ulx="1079.0" uly="1598.0" lrx="1309.0" lry="1649.0"/>
+      <zone start="#W-306" ulx="840.0" uly="1657.0" lrx="1098.0" lry="1712.0"/>
+      <zone start="#W-307" ulx="782.0" uly="1774.0" lrx="996.0" lry="1817.0"/>
+      <zone start="#W-308" ulx="1051.0" uly="1773.0" lrx="1090.0" lry="1818.0"/>
+      <zone start="#W-309" ulx="1517.0" uly="1831.0" lrx="1728.0" lry="1886.0"/>
+      <zone start="#W-310" ulx="1414.0" uly="1890.0" lrx="1692.0" lry="1944.0"/>
+      <zone start="#W-311" ulx="1436.0" uly="1948.0" lrx="1665.0" lry="2000.0"/>
+      <zone start="#W-312" ulx="229.0" uly="2007.0" lrx="266.0" lry="2052.0"/>
+      <zone start="#W-313" ulx="633.0" uly="2008.0" lrx="800.0" lry="2062.0"/>
+      <zone start="#W-314" ulx="969.0" uly="2008.0" lrx="1165.0" lry="2061.0"/>
+      <zone start="#W-315" ulx="1570.0" uly="2007.0" lrx="1842.0" lry="2051.0"/>
+      <zone start="#W-316" ulx="169.0" uly="2067.0" lrx="322.0" lry="2121.0"/>
+      <zone start="#W-317" ulx="765.0" uly="2066.0" lrx="1001.0" lry="2120.0"/>
+      <zone start="#W-318" ulx="1056.0" uly="2124.0" lrx="1248.0" lry="2175.0"/>
+      <zone start="#W-319" ulx="170.0" uly="2184.0" lrx="271.0" lry="2239.0"/>
+      <zone start="#W-320" ulx="303.0" uly="2184.0" lrx="416.0" lry="2227.0"/>
+      <zone start="#W-321" ulx="466.0" uly="2183.0" lrx="597.0" lry="2226.0"/>
+      <zone start="#W-322" ulx="803.0" uly="2183.0" lrx="926.0" lry="2237.0"/>
+      <zone start="#W-323" ulx="960.0" uly="2183.0" lrx="1034.0" lry="2225.0"/>
+      <zone start="#W-324" ulx="1069.0" uly="2182.0" lrx="1214.0" lry="2225.0"/>
+      <zone start="#W-325" ulx="1256.0" uly="2181.0" lrx="1448.0" lry="2233.0"/>
+      <zone start="#W-326" ulx="1496.0" uly="2241.0" lrx="1691.0" lry="2296.0"/>
+      <zone start="#W-327" ulx="171.0" uly="2300.0" lrx="413.0" lry="2354.0"/>
+      <zone start="#W-328" ulx="1322.0" uly="2299.0" lrx="1408.0" lry="2353.0"/>
+      <zone start="#W-329" ulx="778.0" uly="2359.0" lrx="1055.0" lry="2412.0"/>
+      <zone start="#W-330" ulx="478.0" uly="2418.0" lrx="586.0" lry="2468.0"/>
+      <zone start="#W-331" ulx="176.0" uly="2477.0" lrx="394.0" lry="2529.0"/>
+      <zone start="#W-332" ulx="1392.0" uly="2476.0" lrx="1522.0" lry="2529.0"/>
+      <zone start="#W-333" ulx="1570.0" uly="2476.0" lrx="1847.0" lry="2530.0"/>
+      <zone start="#W-334" ulx="173.0" uly="2535.0" lrx="297.0" lry="2589.0"/>
+      <zone start="#W-335" ulx="330.0" uly="2535.0" lrx="436.0" lry="2578.0"/>
+      <zone start="#W-336" ulx="726.0" uly="2535.0" lrx="1040.0" lry="2587.0"/>
+      <zone start="#W-337" ulx="1063.0" uly="2534.0" lrx="1211.0" lry="2577.0"/>
+      <zone start="#W-338" ulx="1526.0" uly="2533.0" lrx="1844.0" lry="2589.0"/>
+      <zone start="#W-339" ulx="230.0" uly="2593.0" lrx="353.0" lry="2647.0"/>
+      <zone start="#W-340" ulx="387.0" uly="2593.0" lrx="489.0" lry="2637.0"/>
+      <zone start="#W-341" ulx="523.0" uly="2593.0" lrx="669.0" lry="2636.0"/>
+      <zone start="#W-342" ulx="702.0" uly="2593.0" lrx="754.0" lry="2637.0"/>
+      <zone start="#W-343" ulx="788.0" uly="2592.0" lrx="1047.0" lry="2648.0"/>
+      <zone start="#W-344" ulx="1464.0" uly="2605.0" lrx="1498.0" lry="2635.0"/>
+      <zone start="#W-345" ulx="1530.0" uly="2593.0" lrx="1572.0" lry="2635.0"/>
+      <zone start="#W-346" ulx="1239.0" uly="2648.0" lrx="1616.0" lry="2695.0"/>
+      <zone start="#W-347" ulx="1654.0" uly="2675.0" lrx="1704.0" lry="2684.0"/>
+      <zone start="#W-348" ulx="1584.0" uly="2701.0" lrx="1723.0" lry="2759.0"/>
+      <zone start="#W-349" ulx="875.0" uly="2769.0" lrx="1199.0" lry="2823.0"/>
+      <zone start="#W-350" ulx="641.0" uly="2840.0" lrx="651.0" lry="2879.0"/>
+      <zone start="#W-351" ulx="1013.0" uly="2842.0" lrx="1022.0" lry="2868.0"/>
+      <zone start="#W-352" ulx="318.0" uly="2885.0" lrx="486.0" lry="2941.0"/>
+      <zone start="#W-353" ulx="632.0" uly="2886.0" lrx="750.0" lry="2930.0"/>
+      <zone start="#W-354" ulx="1553.0" uly="2897.0" lrx="1663.0" lry="2937.0"/>
+      <zone start="#W-355" ulx="1037.0" uly="2957.0" lrx="1099.0" lry="2988.0"/>
+      <zone start="#W-356" ulx="1133.0" uly="2944.0" lrx="1365.0" lry="2997.0"/>
+      <zone start="#W-357" ulx="546.0" uly="3005.0" lrx="851.0" lry="3061.0"/>
+      <zone start="#W-358" ulx="546.0" uly="3005.0" lrx="851.0" lry="3061.0"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div>
+        <pb xml:id="uuid-189d4d39-8862-4bb8-9e51-b7d914a4087a" n="[3]" corresp="https://dnnt.mzk.cz/view/uuid:319546a0-5a42-11eb-b4d1-005056827e51?page=uuid:189d4d39-8862-4bb8-9e51-b7d914a4087a https://dnnt.mzk.cz/search/api/v5.0/item/uuid:189d4d39-8862-4bb8-9e51-b7d914a4087a/"/>
+        <p>
+          <s>
+            <w n="1" pos="ADJ" msd="Case=Nom|Gender=Fem|Number=Sing|NumType=Ord" lemma="osmnáctý" xml:id="W-1">Osmnáctá</w>
+            <w n="2" pos="ADJ" msd="Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="valný" xml:id="W-2">valná</w>
+            <w n="3" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="hromada" xml:id="W-3">hromada</w>
+            <w n="4" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="bratrstvo" xml:id="W-4">bratrstva</w>
+            <persName ana="#nametag-pp">
+              <w n="5" pos="ADJ" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="svatý" xml:id="W-5">sv</w>
+              <pc n="6" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-291">.</pc>
+              <forename ana="#nametag-pf">
+                <w n="7" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Michael" xml:id="W-6">Michaela</w>
+              </forename>
+            </persName>
+            <w n="8" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="pro" xml:id="W-7">pro</w>
+            <w n="9" pos="NOUN" msd="Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos" lemma="království" xml:id="W-8">království</w>
+            <placeName ana="#nametag-gr">
+              <region ana="#nametag-gr">
+                <w n="10" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="český" xml:id="W-9">České</w>
+              </region>
+            </placeName>
+            <pc n="11" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-292">,</pc>
+            <w n="12" pos="ADJ" msd="Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="konaný" xml:id="W-10">konána</w>
+            <w n="13" pos="AUX" msd="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" xml:id="W-11">byla</w>
+            <w n="14" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="den" xml:id="W-12">dne</w>
+            <date ana="#nametag-T" when="1898-04-16">
+              <w n="15" pos="NUM" msd="NumForm=Digit|NumType=Card" lemma="16" ana="#nametag-td" xml:id="W-13">16</w>
+              <pc n="16" pos="PUNCT" join="left" msd="" lemma="." ana="#nametag-td" xml:id="W-293">.</pc>
+              <w n="17" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="duben" ana="#nametag-tm" xml:id="W-14">dubna</w>
+              <w n="18" pos="NUM" msd="NumForm=Digit|NumType=Card" lemma="1898" ana="#nametag-ty" xml:id="W-15">1898</w>
+            </date>
+            <w n="19" pos="ADP" msd="AdpType=Voc|Case=Loc" lemma="v" xml:id="W-16">ve</w>
+            <w n="20" pos="ADJ" msd="Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="velký" xml:id="W-17">velkém</w>
+            <w n="21" pos="NOUN" msd="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="sál" xml:id="W-18">sále</w>
+            <orgName ana="#nametag-ic">
+              <w n="22" pos="PROPN" msd="Case=Gen|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Rudolfinum" xml:id="W-19">Rudolfina</w>
+            </orgName>
+            <w n="23" pos="CCONJ" msd="" lemma="a" xml:id="W-20">a</w>
+            <w n="24" pos="ADV" msd="" lemma="sice" xml:id="W-21">sice</w>
+            <w n="25" pos="ADP" msd="AdpType=Comprep" lemma="vzhledem" xml:id="W-22">vzhledem</w>
+            <w n="26" pos="ADP" msd="AdpType=Prep|Case=Dat" lemma="к" xml:id="W-23">к</w>
+            <w n="27" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="šedesátiletý" xml:id="W-24">šedesátiletému</w>
+            <w n="28" pos="NOUN" msd="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos" lemma="jubileum" xml:id="W-25">jubileu</w>
+            <w n="29" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="diamantový" xml:id="W-26">diamantovému</w>
+            <objectName type="artefact" ana="#nametag-oa">
+              <w n="30" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-27">Jeho</w>
+              <w n="31" pos="NOUN" msd="Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos" lemma="svatost" xml:id="W-28">Svatosti</w>
+              <w n="32" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="papež" xml:id="W-29">papeže</w>
+              <persName ana="#nametag-pp">
+                <w n="33" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="lev" xml:id="W-30">Lva</w>
+                <w n="34" pos="PROPN" msd="NumForm=Roman|NumType=Card" lemma="XIIL" xml:id="W-31">XIIL</w>
+              </persName>
+            </objectName>
+            <pc n="35" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-294">,</pc>
+            <w n="36" pos="SCONJ" msd="" lemma="jakož" xml:id="W-32">jakož</w>
+            <w n="37" pos="CCONJ" msd="" lemma="i" xml:id="W-33">i</w>
+            <w n="38" pos="ADP" msd="AdpType=Prep|Case=Dat" lemma="к" xml:id="W-34">к</w>
+            <w n="39" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="padesátiletý" xml:id="W-35">padesátiletému</w>
+            <w n="40" pos="NOUN" msd="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos" lemma="jubileum" xml:id="W-36">jubileu</w>
+            <w n="41" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="panovnický" xml:id="W-37">panovnickému</w>
+            <w n="42" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-38">Jeho</w>
+            <w n="43" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="veličenstvo" xml:id="W-39">Veličenstva</w>
+            <w n="44" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="císař" xml:id="W-40">císaře</w>
+            <w n="45" pos="CCONJ" msd="" lemma="a" xml:id="W-41">a</w>
+            <w n="46" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="král" xml:id="W-42">krále</w>
+            <persName ana="#nametag-P">
+              <forename ana="#nametag-pf">
+                <w n="47" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="František" xml:id="W-43">Františka</w>
+              </forename>
+              <forename type="middle" ana="#nametag-pm">
+                <w n="48" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Josef" xml:id="W-44">Josefa</w>
+              </forename>
+              <num type="ordinal" ana="#nametag-no">
+                <w n="49" pos="NUM" msd="NumForm=Roman|NumType=Card" lemma="I" xml:id="W-45">I</w>
+                <pc n="50" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-295">.</pc>
+              </num>
+            </persName>
+            <w n="51" pos="NOUN" msd="Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos" lemma="způsob" xml:id="W-46">způsobem</w>
+            <w n="52" pos="ADV" msd="" lemma="zvlášt" xml:id="W-47">zvlášt</w>
+            <w n="53" pos="ADJ" msd="Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="slavnostní" xml:id="W-48">slavnostním</w>
+            <w n="54" pos="CCONJ" msd="" lemma="a" xml:id="W-49">a</w>
+            <w n="55" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="manifestačnír" xml:id="W-50">manifestačníra</w>
+            <pc n="56" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-296">.</pc>
+          </s>
+          <s>
+            <pc n="1" pos="PUNCT" join="left" msd="" lemma="—" xml:id="W-297">—</pc>
+            <w n="2" pos="NOUN" msd="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="průběh" xml:id="W-51">Průběh</w>
+            <w n="3" pos="ADJ" msd="Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="slavnostní" xml:id="W-52">slavnostního</w>
+            <w n="4" pos="DET" msd="Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem" lemma="tento" xml:id="W-53">tohoto</w>
+            <w n="5" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="shromáždění" xml:id="W-54">shromáždění</w>
+            <pc n="6" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-298">,</pc>
+            <w n="7" pos="PRON" msd="Case=Dat|Gender=Masc,Neut|Number=Sing|PrepCase=Npr|PronType=Rel" lemma="jenž" xml:id="W-55">jemuž</w>
+            <w n="8" pos="ADJ" msd="Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="zvláštní" xml:id="W-56">zvláštního</w>
+            <w n="9" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="lesk" xml:id="W-57">lesku</w>
+            <w n="10" pos="VERB" msd="Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="dodat" xml:id="W-58">dodala</w>
+            <w n="11" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="přítomnost" xml:id="W-59">přítomnost</w>
+            <w n="12" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-60">Jeho</w>
+            <objectName ana="#nametag-p_">
+              <w n="13" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="eminence" xml:id="W-61">Eminencí</w>
+              <w n="14" pos="ADV" msd="Degree=Sup|Polarity=Pos" lemma="jdùst" xml:id="W-62">nejdùst</w>
+              <pc n="15" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-299">.</pc>
+            </objectName>
+          </s>
+          <s>
+            <w n="1" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="pan" xml:id="W-63">pana</w>
+            <w n="2" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="kardinál" xml:id="W-64">kardinála</w>
+            <w n="3" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="kníže" xml:id="W-65">knížete</w>
+            <pc n="4" pos="PUNCT" join="both" msd="" lemma="-" xml:id="W-300">-</pc>
+            <w n="5" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="arcibiskup" xml:id="W-66">arcibiskupa</w>
+            <persName ana="#nametag-P">
+              <forename ana="#nametag-pf">
+                <w n="6" pos="PROPN" msd="Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="František" xml:id="W-67">Františka</w>
+              </forename>
+              <surname ana="#nametag-ps">
+                <w n="7" pos="ADP" msd="AdpType=Prep|Case=Nom|Foreign=Yes" lemma="de" xml:id="W-68">de</w>
+              </surname>
+              <forename type="middle" ana="#nametag-pm">
+                <w n="8" pos="PROPN" msd="Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Paul" xml:id="W-69">Paula</w>
+              </forename>
+              <surname ana="#nametag-ps">
+                <w n="9" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="hrabě" xml:id="W-70">hraběte</w>
+              </surname>
+              <w n="10" pos="ADP" msd="AdpType=Voc|Case=Gen" lemma="z" xml:id="W-71">ze</w>
+              <placeName ana="#nametag-gu">
+                <settlement ana="#nametag-gu">
+                  <w n="11" pos="PROPN" msd="Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Plur|Polarity=Pos" lemma="Schonborn" xml:id="W-72">Schonbornů</w>
+                </settlement>
+              </placeName>
+            </persName>
+            <pc n="12" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-301">,</pc>
+            <w n="13" pos="CCONJ" msd="" lemma="a" xml:id="W-73">a</w>
+            <w n="14" pos="ADV" msd="Degree=Pos|Polarity=Pos" lemma="okázale" xml:id="W-74">okázale</w>
+            <w n="15" pos="ADJ" msd="Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="zastoupený" xml:id="W-75">zastoupená</w>
+            <w n="16" pos="ADJ" msd="Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="vysoký" xml:id="W-76">vysoká</w>
+            <w n="17" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="šlechta" xml:id="W-77">šlechta</w>
+            <pc n="18" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-302">,</pc>
+            <w n="19" pos="AUX" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" xml:id="W-78">byl</w>
+            <w n="20" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="v" xml:id="W-79">v</w>
+            <w n="21" pos="DET" msd="Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot" lemma="každý" xml:id="W-80">každém</w>
+            <w n="22" pos="NOUN" msd="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="ohled" xml:id="W-81">ohledu</w>
+            <w n="23" pos="ADJ" msd="Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="důstojný" xml:id="W-82">důstojný</w>
+            <pc n="24" pos="PUNCT" join="left" msd="" lemma=";" xml:id="W-303">;</pc>
+          </s>
+          <s>
+            <w n="1" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="schůze" xml:id="W-83">schůze</w>
+            <w n="2" pos="AUX" msd="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" xml:id="W-84">byla</w>
+            <w n="3" pos="ADV" msd="Degree=Pos|Polarity=Pos" lemma="četně" xml:id="W-85">četně</w>
+            <w n="4" pos="ADJ" msd="Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="navštivený" xml:id="W-86">navštivena</w>
+            <w n="5" pos="CCONJ" msd="" lemma="a" xml:id="W-87">a</w>
+            <w n="6" pos="ADJ" msd="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="obeslaný" xml:id="W-88">obeslána</w>
+            <w n="7" pos="NOUN" msd="Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos" lemma="zástupce" xml:id="W-89">zástupci</w>
+            <w n="8" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="duchovenstvo" xml:id="W-90">duchovenstva</w>
+            <w n="9" pos="DET" msd="Case=Gen|Number=Plur|PronType=Tot" lemma="všechen" xml:id="W-91">všech</w>
+            <w n="10" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="vrstva" xml:id="W-92">vrstev</w>
+            <pc n="11" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-304">,</pc>
+            <w n="12" pos="ADJ" msd="Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="světský" xml:id="W-93">světským</w>
+            <w n="13" pos="CCONJ" msd="" lemma="i" xml:id="W-94">i</w>
+            <w n="14" pos="ADJ" msd="Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="řeholní" xml:id="W-95">řeholním</w>
+            <pc n="15" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-305">,</pc>
+            <w n="16" pos="SCONJ" msd="" lemma="jakož" xml:id="W-96">jakož</w>
+            <w n="17" pos="CCONJ" msd="" lemma="i" xml:id="W-97">i</w>
+            <w n="18" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos" lemma="deputace" xml:id="W-98">deputacemi</w>
+            <w n="19" pos="DET" msd="Case=Gen|Number=Plur|PronType=Tot" lemma="všechen" xml:id="W-99">všech</w>
+            <w n="20" pos="ADJ" msd="Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos" lemma="katolický" xml:id="W-100">katolických</w>
+            <w n="21" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos" lemma="spolek" xml:id="W-101">spolků</w>
+            <w n="22" pos="ADJ" msd="Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos" lemma="pražský" xml:id="W-102">pražských</w>
+            <pc n="23" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-306">.</pc>
+          </s>
+          <s>
+            <w n="1" pos="ADJ" msd="Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="prostorný" xml:id="W-103">Prostorný</w>
+            <w n="2" pos="NOUN" msd="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="sál" xml:id="W-104">sál</w>
+            <orgName ana="#nametag-if">
+              <w n="3" pos="PROPN" msd="Case=Gen|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Rudolfinum" xml:id="W-105">Rudolfina</w>
+            </orgName>
+            <w n="4" pos="ADJ" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="vyzdobený" xml:id="W-106">vyzdoben</w>
+            <w n="5" pos="AUX" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" xml:id="W-107">byl</w>
+            <w n="6" pos="ADV" msd="Degree=Pos|Polarity=Pos" lemma="vkusně" xml:id="W-108">vkusně</w>
+            <w n="7" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos" lemma="květina" xml:id="W-109">květinami</w>
+            <w n="8" pos="CCONJ" msd="" lemma="a" xml:id="W-110">a</w>
+            <w n="9" pos="NOUN" msd="Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos" lemma="koberec" xml:id="W-111">koberci</w>
+            <w n="10" pos="CCONJ" msd="" lemma="a" xml:id="W-112">a</w>
+            <w n="11" pos="ADV" msd="Degree=Pos|Polarity=Pos" lemma="slavnostně" xml:id="W-113">slavnostně</w>
+            <w n="12" pos="ADJ" msd="Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="osvětlený" xml:id="W-114">osvětlen</w>
+            <pc n="13" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-307">.</pc>
+          </s>
+          <s>
+            <forename ana="#nametag-pf">
+              <w n="1" pos="ADP" msd="NumForm=Roman|NumType=Card" lemma="V" xml:id="W-115">V</w>
+              <pc n="2" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-308">.</pc>
+            </forename>
+            <w n="3" pos="NOUN" msd="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="háj" xml:id="W-116">háji</w>
+            <w n="4" pos="ADJ" msd="Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos" lemma="exotický" xml:id="W-117">exotických</w>
+            <w n="5" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="květina" xml:id="W-118">květin</w>
+            <w n="6" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="skvět" xml:id="W-119">skvěl</w>
+            <w n="7" pos="PRON" msd="Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short" lemma="se" xml:id="W-120">se</w>
+            <w n="8" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="v" xml:id="W-121">v</w>
+            <w n="9" pos="NOUN" msd="Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos" lemma="čelo" xml:id="W-122">čele</w>
+            <w n="10" pos="ADP" msd="AdpType=Prep|Case=Ins" lemma="nad" xml:id="W-123">nad</w>
+            <w n="11" pos="NOUN" msd="Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos" lemma="sedadlo" xml:id="W-124">sedadly</w>
+            <w n="12" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos" lemma="hodnostář" xml:id="W-125">hodnostářů</w>
+            <w n="13" pos="ADJ" msd="Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="velký" xml:id="W-126">velký</w>
+            <w n="14" pos="NOUN" msd="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="obraz" xml:id="W-127">obraz</w>
+            <w n="15" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-128">Jeho</w>
+            <persName ana="#nametag-pp">
+              <w n="16" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos" lemma="svatost" xml:id="W-129">Svatosti</w>
+            </persName>
+            <pc n="17" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-309">,</pc>
+            <w n="18" pos="ADP" msd="AdpType=Prep|Case=Ins" lemma="pod" xml:id="W-130">pod</w>
+            <w n="19" pos="PRON" msd="Case=Ins|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel" lemma="jenž" xml:id="W-131">nímž</w>
+            <w n="20" pos="NOUN" msd="Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos" lemma="poprsí" xml:id="W-132">poprsí</w>
+            <w n="21" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-133">Jeho</w>
+            <persName ana="#nametag-pp">
+              <w n="22" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="veličenstvo" xml:id="W-134">Veličenstva</w>
+            </persName>
+            <w n="23" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="krásný" xml:id="W-135">krásnou</w>
+            <w n="24" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="výzdoba" xml:id="W-136">výzdobu</w>
+            <w n="25" pos="VERB" msd="Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="doplňovat" xml:id="W-137">doplňovalo</w>
+            <pc n="26" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-310">.</pc>
+          </s>
+          <s>
+            <w n="1" pos="ADP" msd="AdpType=Prep|Case=Gen" lemma="dle" xml:id="W-138">Dle</w>
+            <w n="2" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="program" xml:id="W-139">programu</w>
+            <w n="3" pos="VERB" msd="Aspect=Perf|Polarity=Pos|Style=Arch|VerbForm=Inf" lemma="zahájit" xml:id="W-140">zahájiti</w>
+            <w n="4" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="mít" xml:id="W-141">měl</w>
+            <w n="5" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="slavnostní" xml:id="W-142">slavnostní</w>
+            <w n="6" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="valný" xml:id="W-143">valnou</w>
+            <w n="7" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="hromada" xml:id="W-144">hromadu</w>
+            <pc n="8" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-311">,</pc>
+            <w n="9" pos="DET" msd="Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel" lemma="kteráž" xml:id="W-145">kteráž</w>
+            <w n="10" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="o" xml:id="W-146">o</w>
+            <num type="ordinal" ana="#nametag-no">
+              <w n="11" pos="NUM" msd="NumForm=Digit|NumType=Card" lemma="7" xml:id="W-147">7</w>
+              <pc n="12" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-312">.</pc>
+            </num>
+            <w n="13" pos="NOUN" msd="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="hodina" xml:id="W-148">hodině</w>
+            <w n="14" pos="ADV" msd="" lemma="večer" xml:id="W-149">večer</w>
+            <w n="15" pos="VERB" msd="Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="počít" xml:id="W-150">počala</w>
+            <pc n="16" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-313">,</pc>
+            <w n="17" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-151">Jeho</w>
+            <objectName type="artefact" ana="#nametag-oa">
+              <w n="18" pos="NOUN" msd="Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos" lemma="jasnost" xml:id="W-152">Jasnost</w>
+            </objectName>
+            <pc n="19" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-314">,</pc>
+            <persName ana="#nametag-P">
+              <forename ana="#nametag-pf">
+                <w n="20" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Karel" xml:id="W-153">Karel</w>
+              </forename>
+              <w n="21" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="princ" xml:id="W-154">princ</w>
+              <w n="22" pos="ADP" msd="AdpType=Voc|Case=Gen" lemma="z" xml:id="W-155">ze</w>
+              <placeName ana="#nametag-gu">
+                <settlement ana="#nametag-gu">
+                  <w n="23" pos="ADJ" msd="Animacy=Inan|Case=Nom|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Schwarzen" xml:id="W-156">Schwarzen</w>
+                </settlement>
+              </placeName>
+              <pc n="24" pos="PUNCT" join="left" msd="" lemma="-" xml:id="W-315">-</pc>
+              <w n="25" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos" lemma="berg" xml:id="W-157">bergů</w>
+            </persName>
+            <pc n="26" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-316">,</pc>
+            <w n="27" pos="SCONJ" msd="" lemma="jako" xml:id="W-158">jako</w>
+            <w n="28" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="předseda" xml:id="W-159">předseda</w>
+            <w n="29" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="bratrstvo" xml:id="W-160">bratrstva</w>
+            <pc n="30" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-317">,</pc>
+            <w n="31" pos="SCONJ" msd="" lemma="jelikož" xml:id="W-161">jelikož</w>
+            <w n="32" pos="CCONJ" msd="" lemma="však" xml:id="W-162">však</w>
+            <w n="33" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="pro" xml:id="W-163">pro</w>
+            <w n="34" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="nemoc" xml:id="W-164">nemoc</w>
+            <w n="35" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="shromáždění" xml:id="W-165">shromáždění</w>
+            <w n="36" pos="DET" msd="Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem" lemma="ten" xml:id="W-166">toho</w>
+            <w n="37" pos="ADV" msd="" lemma="vůbec" xml:id="W-167">vůbec</w>
+            <w n="38" pos="VERB" msd="Aspect=Perf|Polarity=Pos|Style=Arch|VerbForm=Inf" lemma="súčastnit" xml:id="W-168">súčastniti</w>
+            <w n="39" pos="PRON" msd="Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short" lemma="se" xml:id="W-169">se</w>
+            <w n="40" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act" lemma="moci" xml:id="W-170">nemohl</w>
+            <pc n="41" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-318">,</pc>
+            <w n="42" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="převzít" xml:id="W-171">převzal</w>
+            <w n="43" pos="NOUN" msd="Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos" lemma="předsednictví" xml:id="W-172">předsednictví</w>
+            <w n="44" pos="NOUN" msd="Abbr=Yes|Gender=Fem|Polarity=Pos" lemma="VDP" xml:id="W-173">vdp</w>
+            <pc n="45" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-319">.</pc>
+            <w n="46" pos="NOUN" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="knízko" xml:id="W-174">kníž</w>
+            <pc n="47" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-320">.</pc>
+          </s>
+          <s>
+            <w n="1" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="arcib" xml:id="W-175">arcib</w>
+            <pc n="2" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-321">.</pc>
+            <w n="3" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="vikář" xml:id="W-176">vikář</w>
+            <persName ana="#nametag-P">
+              <abbr ana="#nametag-pd">
+                <w n="4" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="Thlg" xml:id="W-177">Thlg</w>
+                <pc n="5" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-322">.</pc>
+              </abbr>
+              <abbr ana="#nametag-pd">
+                <w n="6" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="doktor" xml:id="W-178">Dr</w>
+                <pc n="7" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-323">.</pc>
+              </abbr>
+              <forename ana="#nametag-pf">
+                <w n="8" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Frant" xml:id="W-179">Frant</w>
+                <pc n="9" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-324">.</pc>
+              </forename>
+            </persName>
+          </s>
+          <s>
+            <surname ana="#nametag-ps">
+              <w n="1" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Hrádek" xml:id="W-180">Hrádek</w>
+            </surname>
+            <pc n="2" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-325">,</pc>
+            <w n="3" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="místopředseda" xml:id="W-181">místopředseda</w>
+            <w n="4" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos" lemma="bratrstvo" xml:id="W-182">bratrstva</w>
+            <w n="5" pos="CCONJ" msd="" lemma="a" xml:id="W-183">a</w>
+            <w n="6" pos="VERB" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="zahájit" xml:id="W-184">zahájil</w>
+            <w n="7" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="po" xml:id="W-185">po</w>
+            <w n="8" pos="NOUN" msd="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="příchod" xml:id="W-186">příchodu</w>
+            <w n="9" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-187">Jeho</w>
+            <persName ana="#nametag-pp">
+              <w n="10" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="eminence" xml:id="W-188">Eminencí</w>
+              <w n="11" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Neg" lemma="jdùst" xml:id="W-189">nejdùst</w>
+              <pc n="12" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-326">.</pc>
+            </persName>
+          </s>
+          <s>
+            <w n="1" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="pan" xml:id="W-190">pana</w>
+            <w n="2" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="kardinál" xml:id="W-191">kardinála</w>
+            <pc n="3" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-327">,</pc>
+            <w n="4" pos="PRON" msd="Case=Nom|Gender=Masc|Number=Sing|PrepCase=Npr|PronType=Rel" lemma="jenž" xml:id="W-192">jenž</w>
+            <w n="5" pos="NOUN" msd="Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos" lemma="povstání" xml:id="W-193">povstáním</w>
+            <w n="6" pos="ADP" msd="AdpType=Voc|Case=Gen" lemma="z" xml:id="W-194">ze</w>
+            <w n="7" pos="NOUN" msd="Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos" lemma="sedadlo" xml:id="W-195">sedadel</w>
+            <w n="8" pos="ADJ" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="uvítaný" xml:id="W-196">uvítán</w>
+            <w n="9" pos="AUX" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="být" xml:id="W-197">byl</w>
+            <pc n="10" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-328">,</pc>
+            <w n="11" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="valný" xml:id="W-198">valnou</w>
+            <w n="12" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="hromada" xml:id="W-199">hromadu</w>
+            <w n="13" pos="ADJ" msd="Animacy=Anim|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos" lemma="obvyklý" xml:id="W-200">obvyklým</w>
+            <w n="14" pos="NOUN" msd="Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos" lemma="křestanskýr" xml:id="W-201">křestanskýra</w>
+            <w n="15" pos="NOUN" msd="Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos" lemma="pozdrav" xml:id="W-202">pozdravem</w>
+            <pc n="16" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-329">,</pc>
+            <w n="17" pos="CCONJ" msd="" lemma="a" xml:id="W-203">a</w>
+            <w n="18" pos="NOUN" msd="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="poděkovav" xml:id="W-204">poděkovav</w>
+            <w n="19" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-205">Jeho</w>
+            <persName ana="#nametag-pp">
+              <w n="20" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos" lemma="eminence" xml:id="W-206">Eminencí</w>
+            </persName>
+            <w n="21" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="vroucný" xml:id="W-207">vroucné</w>
+            <w n="22" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="za" xml:id="W-208">za</w>
+            <w n="23" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="čest" xml:id="W-209">čest</w>
+            <pc n="24" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-330">,</pc>
+            <w n="25" pos="DET" msd="Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel" lemma="který" xml:id="W-210">kterou</w>
+            <w n="26" pos="DET" msd="Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes" lemma="svůj" xml:id="W-211">Svou</w>
+            <w n="27" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos" lemma="přítomnost" xml:id="W-212">přítomností</w>
+            <w n="28" pos="ADJ" msd="Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="celý" xml:id="W-213">celému</w>
+            <w n="29" pos="NOUN" msd="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos" lemma="shromáždění" xml:id="W-214">shromáždění</w>
+            <w n="30" pos="VERB" msd="Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="prokázat" xml:id="W-215">prokázal</w>
+            <pc n="31" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-331">,</pc>
+            <w n="32" pos="VERB" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="představit" xml:id="W-216">představil</w>
+            <w n="33" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="zástupce" xml:id="W-217">zástupce</w>
+            <w n="34" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos" lemma="diecése" xml:id="W-218">diecésí</w>
+            <w n="35" pos="CCONJ" msd="" lemma="a" xml:id="W-219">a</w>
+            <w n="36" pos="ADV" msd="" lemma="sice" xml:id="W-220">sice</w>
+            <w n="37" pos="ADJ" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="vdpp" xml:id="W-221">vdpp</w>
+            <pc n="38" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-332">.</pc>
+            <w n="39" pos="NOUN" msd="Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos" lemma="kanovník" xml:id="W-222">kanovníky</w>
+            <pc n="40" pos="PUNCT" join="left" msd="" lemma=":" xml:id="W-333">:</pc>
+            <persName ana="#nametag-P">
+              <abbr ana="#nametag-pd">
+                <w n="41" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="Thlg" xml:id="W-223">Thlg</w>
+                <pc n="42" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-334">.</pc>
+              </abbr>
+            </persName>
+          </s>
+          <s>
+            <abbr ana="#nametag-pd">
+              <w n="1" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="droktor" xml:id="W-224">Dra</w>
+              <pc n="2" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-335">.</pc>
+              <surname ana="#nametag-ps">
+                <w n="3" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Michla" xml:id="W-225">Michla</w>
+              </surname>
+            </abbr>
+            <w n="4" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="za" xml:id="W-226">za</w>
+            <placeName ana="#nametag-gu">
+              <settlement ana="#nametag-gu">
+                <w n="5" pos="PROPN" msd="Case=Acc|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Litoměřicko" xml:id="W-227">Litoměřicko</w>
+              </settlement>
+            </placeName>
+            <pc n="6" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-336">,</pc>
+            <persName ana="#nametag-P">
+              <forename ana="#nametag-pf">
+                <w n="7" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Frant" xml:id="W-228">Frant</w>
+                <pc n="8" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-337">.</pc>
+              </forename>
+            </persName>
+          </s>
+          <s>
+            <surname ana="#nametag-ps">
+              <w n="1" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Dichtla" xml:id="W-229">Dichtla</w>
+            </surname>
+            <w n="2" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="za" xml:id="W-230">za</w>
+            <placeName ana="#nametag-gu">
+              <settlement ana="#nametag-gu">
+                <w n="3" pos="PROPN" msd="Case=Acc|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Budějovicko" xml:id="W-231">Budějovicko</w>
+              </settlement>
+            </placeName>
+            <pc n="4" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-338">,</pc>
+            <w n="5" pos="CCONJ" msd="" lemma="a" xml:id="W-232">a</w>
+            <persName ana="#nametag-P">
+              <abbr ana="#nametag-pd">
+                <w n="6" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Thlg" xml:id="W-233">Thlg</w>
+                <pc n="7" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-339">.</pc>
+              </abbr>
+            </persName>
+          </s>
+          <s>
+            <abbr ana="#nametag-pd">
+              <w n="1" pos="NOUN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|Polarity=Pos" lemma="droktor" xml:id="W-234">Dra</w>
+              <pc n="2" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-340">.</pc>
+              <forename ana="#nametag-pf">
+                <w n="3" pos="PROPN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|NameType=Giv|Polarity=Pos" lemma="Frant" xml:id="W-235">Frant</w>
+                <pc n="4" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-341">.</pc>
+              </forename>
+              <forename ana="#nametag-pf">
+                <w n="5" pos="PROPN" msd="Abbr=Yes|Animacy=Anim|Gender=Masc|NameType=Giv|Polarity=Pos" lemma="X" xml:id="W-236">X</w>
+                <pc n="6" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-342">.</pc>
+              </forename>
+              <surname ana="#nametag-ps">
+                <w n="7" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Kryštůfek" xml:id="W-237">Kryštůfka</w>
+              </surname>
+            </abbr>
+            <pc n="8" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-343">,</pc>
+            <w n="9" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="prorektor" xml:id="W-238">prorektora</w>
+            <w n="10" pos="CCONJ" msd="" lemma="a" xml:id="W-239">a</w>
+            <persName ana="#nametag-P">
+              <abbr ana="#nametag-pd">
+                <w n="11" pos="ADJ" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="c" xml:id="W-240">c</w>
+                <pc n="12" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-344">.</pc>
+                <w n="13" pos="NOUN" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="k" xml:id="W-241">k</w>
+                <pc n="14" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-345">.</pc>
+              </abbr>
+            </persName>
+            <w n="15" pos="NOUN" msd="Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="profesor" xml:id="W-242">profesora</w>
+            <w n="16" pos="ADJ" msd="Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="český" xml:id="W-243">české</w>
+            <w n="17" pos="NOUN" msd="Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos" lemma="univerzita" xml:id="W-244">university</w>
+            <persName ana="#nametag-P">
+              <forename ana="#nametag-pf">
+                <w n="18" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Karlo" xml:id="W-245">Karlo</w>
+              </forename>
+              <surname ana="#nametag-ps">
+                <w n="19" pos="PROPN" msd="Case=Gen|Gender=Fem|NameType=Sur|Number=Sing|Polarity=Pos" lemma="Ferdinandská" xml:id="W-246">Ferdinandské</w>
+              </surname>
+            </persName>
+            <w n="20" pos="ADP" msd="AdpType=Prep|Case=Acc" lemma="za" xml:id="W-247">za</w>
+            <placeName ana="#nametag-gr">
+              <region ana="#nametag-gr">
+                <w n="21" pos="PROPN" msd="Case=Acc|Gender=Neut|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Králohradecko" xml:id="W-248">Králohradecko</w>
+              </region>
+            </placeName>
+            <pc n="22" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-346">.</pc>
+          </s>
+          <s>
+            <pc n="1" pos="PUNCT" join="left" msd="" lemma="—" xml:id="W-347">—</pc>
+            <w n="2" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="po" xml:id="W-249">Po</w>
+            <w n="3" pos="DET" msd="Case=Loc|Gender=Fem|Number=Sing|PronType=Dem" lemma="ten" xml:id="W-250">té</w>
+            <w n="4" pos="VERB" msd="Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act" lemma="sdělit" xml:id="W-251">sdělil</w>
+            <w n="5" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="pan" xml:id="W-252">pan</w>
+            <w n="6" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="předseda" xml:id="W-253">předseda</w>
+            <w n="7" pos="NOUN" msd="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos" lemma="obsah" xml:id="W-254">obsah</w>
+            <w n="8" pos="NOUN" msd="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos" lemma="telegram" xml:id="W-255">telegramu</w>
+            <w n="9" pos="ADP" msd="AdpType=Prep|Case=Gen" lemma="z" xml:id="W-256">z</w>
+            <placeName ana="#nametag-gu">
+              <settlement ana="#nametag-gu">
+                <w n="10" pos="PROPN" msd="Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos" lemma="Řím" xml:id="W-257">Říma</w>
+              </settlement>
+            </placeName>
+            <pc n="11" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-348">,</pc>
+            <w n="12" pos="ADP" msd="AdpType=Prep|Case=Gen" lemma="dle" xml:id="W-258">dle</w>
+            <w n="13" pos="PRON" msd="Case=Gen|Gender=Masc,Neut|Number=Sing|PrepCase=Pre|PronType=Rel" lemma="jenž" xml:id="W-259">něhož</w>
+            <w n="14" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="být" xml:id="W-260">jest</w>
+            <w n="15" pos="DET" msd="Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs" lemma="jeho" xml:id="W-261">Jeho</w>
+            <date type="holiday" ana="#nametag-tf">
+              <w n="16" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos" lemma="eminence" xml:id="W-262">Eminencí</w>
+              <w n="17" pos="ADJ" msd="Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass" lemma="splnomocněný" xml:id="W-263">splnomocněn</w>
+            </date>
+            <pc n="18" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-349">,</pc>
+            <w n="19" pos="VERB" msd="Aspect=Perf|Polarity=Pos|VerbForm=Inf" lemma="uclěliti" xml:id="W-264">uclěliti</w>
+            <w n="20" pos="ADJ" msd="Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos" lemma="přítomný" xml:id="W-265">přítomným</w>
+            <w n="21" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="apoštolský" xml:id="W-266">apoštolské</w>
+            <w n="22" pos="NOUN" msd="Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos" lemma="požehnání" xml:id="W-267">požehnání</w>
+            <pc n="23" pos="PUNCT" join="left" msd="" lemma=";" xml:id="W-350">;</pc>
+            <w n="24" pos="NOUN" msd="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="telegram" xml:id="W-268">telegram</w>
+            <w n="25" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="znít" xml:id="W-269">zní</w>
+            <pc n="26" pos="PUNCT" join="left" msd="" lemma=":" xml:id="W-351">:</pc>
+            <pc n="27" pos="PUNCT" join="both" msd="" lemma="." xml:id="W-352">.</pc>
+            <w n="28" pos="NOUN" msd="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos" lemma="papež" xml:id="W-270">Papež</w>
+            <persName ana="#nametag-P">
+              <forename ana="#nametag-pf">
+                <w n="29" pos="PROPN" msd="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Lev" xml:id="W-271">Lev</w>
+              </forename>
+              <surname ana="#nametag-ps">
+                <w n="30" pos="NUM" msd="NumForm=Roman|NumType=Card" lemma="XIII" xml:id="W-272">XIII</w>
+                <pc n="31" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-353">.</pc>
+              </surname>
+            </persName>
+            <w n="32" pos="VERB" msd="Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act" lemma="udělovat" xml:id="W-273">uděluje</w>
+            <objectName type="artefact" ana="#nametag-oa">
+              <w n="33" pos="DET" msd="Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs" lemma="tvůj" xml:id="W-274">Vaší</w>
+              <w n="34" pos="NOUN" msd="Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos" lemma="eminence" xml:id="W-275">Eminencí</w>
+              <w n="35" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="plný" xml:id="W-276">plnou</w>
+              <w n="36" pos="NOUN" msd="Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="moc" xml:id="W-277">moc</w>
+            </objectName>
+            <pc n="37" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-354">,</pc>
+            <w n="38" pos="VERB" msd="Aspect=Perf|Polarity=Pos|Style=Arch|VerbForm=Inf" lemma="udělit" xml:id="W-278">uděliti</w>
+            <w n="39" pos="ADJ" msd="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos" lemma="apoštolský" xml:id="W-279">apoštolské</w>
+            <w n="40" pos="NOUN" msd="Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos" lemma="požehnání" xml:id="W-280">požehnání</w>
+            <w n="41" pos="NOUN" msd="Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos" lemma="bratrstvo" xml:id="W-281">bratrstvu</w>
+            <persName ana="#nametag-pp">
+              <w n="42" pos="ADJ" msd="Abbr=Yes|Degree=Pos|Polarity=Pos" lemma="svatý" xml:id="W-282">sv</w>
+              <pc n="43" pos="PUNCT" join="left" msd="" lemma="." xml:id="W-355">.</pc>
+              <w n="44" pos="PROPN" msd="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos" lemma="Michael" xml:id="W-283">Michaela</w>
+            </persName>
+            <pc n="45" pos="PUNCT" join="left" msd="" lemma="," xml:id="W-356">,</pc>
+            <w n="46" pos="SCONJ" msd="" lemma="jakož" xml:id="W-284">jakož</w>
+            <w n="47" pos="CCONJ" msd="" lemma="i" xml:id="W-285">i</w>
+            <w n="48" pos="DET" msd="Case=Dat|Number=Plur|PronType=Tot" lemma="všechen" xml:id="W-286">všem</w>
+            <w n="49" pos="ADP" msd="AdpType=Prep|Case=Loc" lemma="při" xml:id="W-287">při</w>
+            <w n="50" pos="ADJ" msd="Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos" lemma="slavný" xml:id="W-288">slavné</w>
+            <w n="51" pos="NOUN" msd="Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos" lemma="schůze" xml:id="W-289">schůzi</w>
+            <w n="52" pos="ADJ" msd="Animacy=Anim|Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos" lemma="přítomný" xml:id="W-290">přítomným</w>
+            <pc n="53" pos="PUNCT" join="both" msd="" lemma="." xml:id="W-357">.</pc>
+          </s>
+          <s>
+            <pc n="1" pos="PUNCT" join="both" msd="" lemma="“" xml:id="W-358">“</pc>
+          </s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
