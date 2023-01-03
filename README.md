@@ -3,7 +3,15 @@ DL4DH TEI Converter
 
 TEI converter umožní konvertovat a exportovat data a metadata ze systému Kramerius ve formátu TEI, který patří mezi hlavní standardy v oblasti digitálních humanitních věd pro detailní popis dokumentů v digitální podobě. Nový softwarový nástroj zajistí kompatibilitu s dalšími projekty a v případě potřeby umožní vzhledem k možnostem TEI obohacení popisu dokumentů z digitálních knihoven v systému Kramerius.
 
-Na projektu spolupracují Knihovna Akademie věd ČR, Národní knihovna ČR, Moravská zemská knihovna v Brně a firma InQool.
+**Projekt „DL4DH – vývoj nástrojů pro efektivnější využití a vytěžování dat z digitálních knihoven k posílení výzkumu digital humanities“ byl podpořen Ministerstvem kultury ČR v rámci programu aplikovaného výzkumu NAKI II pod ID DG20P02OVV002 a jeho řešení probíhalo v letech 2020 – 2022.**
+
+Na projektu spolupracují Knihovna AV ČR, v. v. i., Národní knihovna ČR, Moravská zemská knihovna v Brně a firma InQool a.s.
+
+Koordinátorem vývoje je Knihovna AV ČR, v. v. i., zastoupená Ing. Martinem Lhotákem, lhotak@knav.cz.
+
+Další informace a dokumentace k nástroji DL4DH TEI Converter jsou dispozici na https://github.com/LIBCAS/DL4DH-TEI-Converter/wiki.
+
+Souhrnná informace k projektu DL4DH je umístěna na https://github.com/LIBCAS/DL4DH
 
 # Requirements
 
